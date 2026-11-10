@@ -1,0 +1,7 @@
+## Interface: 16001, 16002, 16003, 16100, 16101, 16200, 120105
+## Title: Controller Forever - 简体中文汉化
+## Title-zhCN: Controller Forever - 简体中文汉化
+## Notes-zhCN: 非官方简体中文语言包，需先安装 Controller Forever 3.9.44
+## Version: 0.2.0-beta
+## Dependencies: ControllerForever
+ControllerForever_zhCN.lua
