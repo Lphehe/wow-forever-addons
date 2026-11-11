@@ -1,6 +1,6 @@
-# 版权和发布说明
+# 版权与上架限制
 
-Controller Forever 原插件和美术资源版权归其作者，官方发布采用 All Rights Reserved。
-本仓库仅提供简体中文界面翻译字符串和独立语言插件，不附带原版 Lua 功能文件、图像或音频。
-翻译原作者界面字符串可能构成派生作品。向 CurseForge 等平台发布前需要确认上游授权及相应平台规则。
-本项目与原插件作者、暴雪娱乐及 CurseForge 无官方关联。
+Controller Forever 及其原始程序、图片和其他素材版权归原作者所有，原版发布采用 All Rights Reserved。
+本语言包依赖上游公开的 ControllerForever.L.register 接口，仅发布翻译映射，不包含原插件的完整程序或其他素材。
+翻译受版权保护的英文界面可能属于派生作品，在 CurseForge 正式发布之前仍应取得必要的原作者许可并遵守平台规定。
+本项目是非官方社区汉化。

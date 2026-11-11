@@ -1,8 +1,7 @@
 ## Interface: 16001, 16002, 16003, 16100, 16101, 16200, 120105
 ## Title: Controller Forever 简体中文语言包
 ## Title-zhCN: Controller Forever 简体中文语言包
-## Notes: Community Simplified Chinese locale pack. Requires Controller Forever.
-## Notes-zhCN: 非官方 Controller Forever 简体中文语言包。请先安装原插件。
-## Version: 0.4.0-beta
+## Notes-zhCN: Controller Forever 3.9.44 的非官方简体中文语言包。
+## Version: 0.4.1-rc
 ## Dependencies: ControllerForever
 ControllerForever_zhCN.lua

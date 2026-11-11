@@ -1,5 +1,5 @@
-# 建议 GitHub Topics
+# GitHub Topics（建议）
 
 world-of-warcraft, wow-forever, wow-addons, localization, simplified-chinese, gamepad, macos, lua
 
-Topic 应在 GitHub 仓库首页 About 面板中设置。本文件本身不会修改 GitHub Topics。
+这只是建议列表，需在仓库 About → Topics 中实际设置。

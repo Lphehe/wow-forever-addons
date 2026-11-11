@@ -1,20 +1,19 @@
-name: Validate zhCN locale
+name: Validate Controller Forever zhCN locale
 on:
   push:
     branches: [main]
   pull_request:
-
 jobs:
-  checks:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Verify package
+      - name: Verify translation and ZIP
         run: python scripts/check_package.py
-      - name: Check Lua syntax
+      - name: Lua 5.1 syntax
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y lua5.1
