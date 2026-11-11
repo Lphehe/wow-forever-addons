@@ -1,13 +1,5 @@
-# GitHub Topics（建议标签）
+# 建议 GitHub Topics
 
-world-of-warcraft
-wow-forever
-wow-addons
-localization
-simplified-chinese
-controller
-gamepad
-macos
-lua
+world-of-warcraft, wow-forever, wow-addons, localization, simplified-chinese, gamepad, macos, lua
 
-在 GitHub 仓库首页右侧 About 面板点击编辑图标，可把上述英文词条添加为 Topics。该文档本身不能代替仓库实际的 Topics 设置。
+Topic 应在 GitHub 仓库首页 About 面板中设置。本文件本身不会修改 GitHub Topics。

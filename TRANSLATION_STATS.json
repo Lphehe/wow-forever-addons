@@ -1,9 +1,18 @@
 {
-  "upstream_version": "3.9.44",
-  "version": "0.2.0-beta",
-  "reference_keys": 2289,
-  "translated_entries": 2090,
-  "fallback_english": 199,
-  "manual_overrides_matched": 144,
-  "in_game_verified": false
+  "original_addon_version": "3.9.44",
+  "version": "0.3.0-beta",
+  "upstream_reference_keys": 2289,
+  "keys_with_zhCN_entries": 2289,
+  "coverage_percent": 100.0,
+  "curated_keys": 1059,
+  "curated_coverage_percent": 46.3,
+  "old_machine_draft_keys_not_yet_manually_retranslated": 1230,
+  "legacy_machine_draft_term_cleanup_count": 7,
+  "untranslated_English_only_labels": 11,
+  "unchanged_source_labels": 9,
+  "printf_placeholder_mismatches": 0,
+  "lua_syntax_checked": false,
+  "in_game_verified": false,
+  "known_source": "English phrase keys in upstream German locale (not exhaustive guarantee of code strings)",
+  "localization_strategy": "AI-authored revisions + previous MT draft; unreviewed entries remain provisional"
 }

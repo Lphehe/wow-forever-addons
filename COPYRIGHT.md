@@ -1,9 +1,6 @@
-# Copyright & release policy / 版权与发布
+# 版权和发布说明
 
-Controller Forever is an independent third-party World of Warcraft addon. Its original Lua code, images, audio and other assets are copyright their respective author(s), and its published distribution states All Rights Reserved.
-
-This repository contains no upstream addon code or binary assets. The language pack uses the documented public ControllerForever.L.register("zhCN", ...) interface and adds Chinese translation strings.
-
-Chinese translations of protected English UI text may themselves be derivative works. Before publishing this translation addon on CurseForge or another distribution platform, obtain any required permission from the original author and comply with the platform's content and licensing rules.
-
-This project is not endorsed by the original author, Blizzard Entertainment, or CurseForge.
+Controller Forever 原插件和美术资源版权归其作者，官方发布采用 All Rights Reserved。
+本仓库仅提供简体中文界面翻译字符串和独立语言插件，不附带原版 Lua 功能文件、图像或音频。
+翻译原作者界面字符串可能构成派生作品。向 CurseForge 等平台发布前需要确认上游授权及相应平台规则。
+本项目与原插件作者、暴雪娱乐及 CurseForge 无官方关联。
