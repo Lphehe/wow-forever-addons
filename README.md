@@ -1,45 +1,30 @@
 # 魔兽世界：无限插件 | WoW Forever Addons
 
-公开仓库收录 WoW Forever 的社区插件、简体中文语言包和 Mac / Windows 安装说明。
-
 ## Controller Forever 简体中文语言包
 
-**0.3.0-beta** | 适配原版 Controller Forever **3.9.44** | 独立加载，不修改原版插件。
+**v0.4.0-beta** · 适配 Controller Forever **3.9.44** · WoW Forever 1.60.1 · Mac / Windows
 
-### 汉化真实进度
+与原版插件并列安装的非官方简体中文语言包，不覆盖原插件源码、界面美术或玩家按键配置。
 
-- 参照上游德语本地化文件中的 2,289 条英文键，全部已有 zhCN 翻译映射。
-- 已由 AI 逐项重新编写或专项校对 1059 条，涵盖治疗、背键、任务选怪、按键绑定、动作条、拍卖行和物品操作。
-- 仍有 1230 条沿用早期机器翻译草稿，尚未经过逐条语言复核；不代表专业汉化完成。
-- 动态格式占位符（例如 %s、%d）已进行顺序核对。Lua 语法和 ZIP 完整性也经过静态检查。
-- 客户端实测未完成；上游可能还有未收录进参考语言表的动态文字。
+### 最新翻译情况
 
-**参考键覆盖率 100% 不是翻译质量验收 100%。当前仍是 Beta。**
+- 上游英文参考键：2289 条；所有参考键均有对应的简体中文映射。
+- **已对照英文逐条进行 AI 语义检查**：上一版遗留 1230 条机器翻译，已重写 814 条；另 416 条核对语义后保留。
+- 部分按键代号与专有名词保留英文，例如 LB、LT、RB、Start、Controller Forever。
+- 参考键已完成文本复核，但尚未在真实游戏客户端完成逐页功能验收；这不是“专业人工翻译认证版”。
 
 ### 下载
 
-[下载 ControllerForever_ZH-0.3.0-beta.zip](releases/ControllerForever_ZH-0.3.0-beta.zip)
+[下载 v0.4.0-beta](releases/ControllerForever_ZH-0.4.0-beta.zip)
 
 ### 安装
 
-1. 先安装原版 Controller Forever：https://www.curseforge.com/wow/addons/controllerforever
-2. 把 ZIP 里面的 ControllerForever_ZH 文件夹解压到游戏的 _forever_/Interface/AddOns/。
-3. 确保 ControllerForever_ZH 与 ControllerForever 是两个并列文件夹，不能把语言包放进原插件目录里。
-4. 完全重启游戏，在插件列表启用原插件和汉化包。
-5. 输入 /cr menu 打开设置。简体中文客户端会自动使用中文；其他客户端可以输入 /cr lang zhCN，输入 /cr lang auto 恢复自动语言。
+1. 安装原版 Controller Forever：https://www.curseforge.com/wow/addons/controllerforever
+2. 解压语言包 ZIP，把 ControllerForever_ZH 文件夹放到游戏 _forever_/Interface/AddOns/。
+3. 确保它与 ControllerForever 文件夹并列。
+4. 完全重启《魔兽世界：无限》，在插件列表中开启中文语言包。
+5. 输入 /cr menu 打开菜单。非中文客户端输入 /cr lang zhCN，可通过 /cr lang auto 还原为游戏语言。
 
-本语言包只增加语言映射，不改变任何手柄按键、技能宏、施法与移动行为。删除汉化插件目录即可恢复原版界面，玩家原有配置会保留。
+### 质量与版权
 
-### 主要文件
-
-- addons/controller-forever-zhcn/ControllerForever_ZH/：语言文件和 TOC
-- releases/：直接安装的 ZIP 包
-- QA_REPORT.md：翻译质量和静态校验说明
-- REVIEW_REMAINING.tsv：仍需人工语言复核的中英对照
-- GLOSSARY.md：魔兽与手柄术语规范
-- scripts/check_package.py：格式、重复键、压缩包校验
-- .github/workflows/validate.yml：GitHub 自动化语法校验
-
-### 版权与发布
-
-非官方项目。Controller Forever 原版采用 All Rights Reserved，本仓库不分发其源代码和美术资源，仅提供独立 zhCN 语言包。对英文界面的翻译可能涉及派生作品权利，正式上架 CurseForge 前仍应确认必要的上游授权。与原作者、暴雪及 CurseForge 均无官方关联。
+参见 QA_REPORT.md 和 TRANSLATION_STATS.json。上游使用 All Rights Reserved；本仓库不包含其完整插件代码和美术资源。公开向 CurseForge 投稿前，请核实原作者许可。

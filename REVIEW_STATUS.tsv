@@ -1,0 +1,1231 @@
+English key	zhCN text	Review status
+On	开启	reviewed_keep
+Off	关闭	reviewed_keep
+Back	返回	reviewed_keep
+Back to the main page.	返回主页。	reviewed_keep
+Close	关闭	reviewed_keep
+Close this menu.	关闭此菜单。	reviewed_keep
+Buttons	按键	reviewed_keep
+Shoulder Buttons	肩键（L1/R1）	reviewed_keep
+LB / RB as your own buttons, camera zoom, and where they sit.	将 L1/R1 设为独立按键，调整镜头缩放及按钮位置。	reviewed_keep
+Stick Clicks	摇杆按下（L3/R3）	reviewed_keep
+L3 / R3 as your own buttons, and where they sit.	将 L3/R3 设置成独立按键并调整按钮位置。	reviewed_keep
+Start Button	Start 键	reviewed_keep
+Select Button	Select 键	reviewed_keep
+Xbox Button	主机键	reviewed_keep
+L4 / R4 / L5 / R5 paddles and the E1 - E4 extra buttons: on / off, setup, and where they sit.	启用或关闭 L4/R4/L5/R5 背键和 E1–E4 扩展键，并设置它们的功能与显示位置。	reviewed_keep
+Features	功能	reviewed_keep
+Shortcuts	快捷操作	reviewed_keep
+The window wheel, the consumables wheel and the quest item button.	窗口轮盘、消耗品轮盘及任务物品按钮。	reviewed_keep
+Class Options	职业选项	reviewed_keep
+Per-class extras, like warrior stance sets.	各职业专属设置，例如战士姿态按键方案。	reviewed_keep
+Look	外观	reviewed_keep
+Scale, move, spread and fade the whole layout, and how out of range looks.	调整整体布局的缩放、移动、间距和淡出，以及超出距离时的显示方式。	reviewed_keep
+Display	显示	reviewed_keep
+Button symbols, the Start menu, the crosshair and the mouse.	调整按钮图标、Start 菜单、准星与鼠标显示。	reviewed_keep
+CF UI	CF 界面	reviewed_keep
+CF Skins	CF 皮肤	reviewed_keep
+Party	队伍与治疗	reviewed_keep
+Camera & Dialogue	镜头和对话	reviewed_keep
+Size and Position	大小与位置	reviewed_keep
+Fading	淡出	reviewed_keep
+Layout Opacity	布局不透明度	reviewed_keep
+Fade Speed	淡出速度	reviewed_keep
+Normal	普通	reviewed_keep
+Edit Layout	编辑布局	reviewed_keep
+Edit Layout: Whole Layout	编辑布局：整体布局	reviewed_keep
+Open	打开	reviewed_keep
+Reset Buttons Moved One by One	重置单独移动过的按钮	retranslated
+Buttons you moved one by one go back on their group. Groups stay put.	将单独移动的按钮恢复到所属按键组，按键组整体位置不变。	retranslated
+Nothing moved	未移动过任何按钮	retranslated
+Shape	形状	reviewed_keep
+Default	默认	reviewed_keep
+Arrangement	排列方式	reviewed_keep
+Standard	标准	reviewed_keep
+Glass-like buttons: the picture, its backing and the ring let the world show through. Symbols, numbers and glows stay solid.	玻璃质感按键：图标、背景和边框均带透明效果，可以看到背后的游戏画面。按键符号、数字和高亮效果仍保持清晰。	retranslated
+Shown	显示	reviewed_keep
+Compact	紧凑型	reviewed_keep
+Opacity	不透明度	reviewed_keep
+Border Color	边框颜色	reviewed_keep
+Cooldowns and Glows	冷却与技能高亮	reviewed_keep
+On: seconds left in big numbers on a button on cooldown.	技能冷却时在按钮上用大号数字显示剩余秒数。	reviewed_keep
+Gray While on Cooldown	冷却期间置灰	reviewed_keep
+Flash When Ready	冷却完成时闪光	reviewed_keep
+Proc Glow	触发效果高亮	reviewed_keep
+Proc Glow Color	触发高亮颜色	reviewed_keep
+Gold	金色	reviewed_keep
+Interrupt Glow	打断技能高亮	reviewed_keep
+On: your interrupt flashes red while the target casts. Experimental.	目标正在读条时，打断技能按钮闪红提示（实验性）。	reviewed_keep
+Out of Range Color	超出施法距离提示颜色	reviewed_keep
+Yellow	黄色	reviewed_keep
+Medium	中号	reviewed_keep
+Not Enough Mana Color	法力不足提示颜色	reviewed_keep
+Cooldown Row	冷却监控栏	reviewed_keep
+Abilities cooling down on the modifiers you aren't holding: Off, a Row of icons side by side, or a List (one per line, soonest first).	显示当前没有按住的其他组合键层的技能冷却。可关闭，或显示为横向图标行，或按剩余冷却时间从短到长排列的竖向列表。	retranslated
+Every Modifier's Cooldowns	所有组合层的冷却	reviewed_keep
+Clockwise	顺时针	reviewed_keep
+Swing Time Left	距离下次自动攻击的剩余时间	retranslated
+Arrow / Bullet Count	弓箭／弹药数量	reviewed_keep
+Swing Label	自动攻击文字标签	reviewed_keep
+Swing Spark	自动攻击进度光效	reviewed_keep
+On: Controller Forever's crosshair, in the style below. Off: the game's own (Crosshair Opacity still works on it).	开启后使用下方设置的 Controller Forever 准星；关闭后使用游戏原生准星（准星不透明度设置仍然有效）。	retranslated
+Crosshair Color	准星颜色	retranslated
+White	白色	reviewed_keep
+Crosshair Size	准星大小	retranslated
+Crosshair Opacity	准星不透明度	retranslated
+Crosshair Reacts to Target	准星随目标状态变化	reviewed_keep
+Crosshair Enemy Color	敌对目标准星颜色	reviewed_keep
+Red	红色	reviewed_keep
+Crosshair Friendly Color	友方目标准星颜色	reviewed_keep
+Green	绿色	reviewed_keep
+Target Brackets	目标边框	reviewed_keep
+Brackets round your target: red enemy, green friend, yellow neutral. Needs nameplates on.	目标周围显示边框：敌对为红色、友方为绿色、中立为黄色。需启用姓名板。	reviewed_keep
+Bracket Style	目标边框样式	reviewed_keep
+Curved	弧形	reviewed_keep
+Bracket Size	目标边框大小	reviewed_keep
+Bracket Width	目标边框宽度	reviewed_keep
+Bracket Height	目标边框高度	reviewed_keep
+Enemy List: Shows	敌人列表：显示范围	retranslated
+Your target's edge: green low threat, yellow close to pulling, red you have aggro (Threat Color). Or your Class Color, Gold, or Off.	当前目标的边框颜色可以反映仇恨：绿色代表仇恨较低，黄色代表即将获得仇恨，红色代表你已成为攻击目标。也可选择职业颜色、金色或关闭。	retranslated
+Threat Color	仇恨颜色	reviewed_keep
+On: an arrow past the frame in the colour of the party member it's hitting (none when it's you: the red square says so).	开启后，在敌人框体旁显示箭头，箭头采用被攻击队友的职业颜色。如果敌人攻击的是你，则不显示箭头，改由红色方框提示。	retranslated
+Missing Buffs	缺失的增益效果	retranslated
+Show Missing Buffs	显示缺失的增益效果	retranslated
+Missing Buffs: Watch	缺失增益：监控项目	reviewed_keep
+Missing Buffs: In a Fight	缺失增益：战斗时显示	reviewed_keep
+Missing Buffs: Show It	缺失增益：显示方式	reviewed_keep
+Missing Buffs: Place	缺失增益：显示位置	reviewed_keep
+Wheels	快捷轮盘	reviewed_keep
+Wheel	轮盘	reviewed_keep
+Reset	重置	reviewed_keep
+Rename This Wheel	重命名此轮盘	reviewed_keep
+A: type a new name for this Custom Wheel.	按 A 为这个自定义轮盘输入新名称。	retranslated
+Color	颜色	reviewed_keep
+Texture	纹理	reviewed_keep
+Marbled	大理石纹	reviewed_keep
+Round, Square, Hexagon, Octagon, Flower or Gear.	圆形、方形、六角形、八角形、花朵或齿轮。	reviewed_keep
+Round	圆形	reviewed_keep
+Wheel Icon	轮盘图标	reviewed_keep
+Show A / B Hints	显示 A / B 提示	reviewed_keep
+Wheels Ignore the Mouse	轮盘忽略鼠标	reviewed_keep
+On: while a wheel is open, the camera holds still for mouse, trackpad and gyro. Holding a mouse button still turns it.	开启后，在快捷轮盘打开期间，鼠标、触控板和陀螺仪不会转动镜头；按住鼠标按键仍然可以转动镜头。	retranslated
+Release	松开按键	reviewed_keep
+Target Tooltip	目标提示框	reviewed_keep
+Target Tooltip: Show For	目标提示框持续时间	reviewed_keep
+Other modifiers' cooldowns	其他组合层的冷却	reviewed_keep
+Your buffs that aren't on you	你身上没有的增益效果	reviewed_keep
+Glows	技能触发高亮	retranslated
+Gray on Cooldown	冷却时呈灰色	reviewed_keep
+Out of Range	超出施法距离	retranslated
+Range Color	距离提示颜色	retranslated
+Low Mana Color	法力不足提示颜色	retranslated
+What It Shows	显示什么	reviewed_keep
+CF Look	CF 外观	retranslated
+Out of Combat	非战斗状态	reviewed_keep
+Time Left	剩余时间	reviewed_keep
+Ammo Count	剩余弹药数量	retranslated
+Label	标签	reviewed_keep
+Spark	火花	reviewed_keep
+Your swing timer is hidden in the game's Edit Mode. To see it in play: Edit Mode > Swing Timer > Visibility: Always or In Combat.	游戏的编辑模式中已隐藏自动攻击计时条。如需显示，请进入“编辑模式 → 自动攻击计时条 → 可见性”，选择“始终”或“战斗中”。	retranslated
+The mark in the middle of the screen.	屏幕中央的瞄准标记。	retranslated
+Brackets	目标边框	reviewed_keep
+Show Brackets	显示目标边框	reviewed_keep
+List	列表	reviewed_keep
+Enemies your group is fighting. Needs enemy name plates.	显示你的小队正在交战的敌人，需要启用敌方姓名板。	retranslated
+Which Wheel	选择轮盘	retranslated
+A / B Hints	A / B 提示	reviewed_keep
+Ignore the Mouse	忽略鼠标	reviewed_keep
+Tooltip	工具提示	reviewed_keep
+Show Tooltip	显示工具提示	reviewed_keep
+Long Press	长按	reviewed_keep
+Long Press (Experimental)	长按（实验）	reviewed_keep
+Bind Start	绑定 Start 键	reviewed_keep
+Bind Select	绑定 Select 键	reviewed_keep
+Camera	镜头	retranslated
+On: the controller vibrates for the things below that are on.	开启手柄震动后，可由下方各项指定触发场景。	retranslated
+Test Vibration	测试振动	reviewed_keep
+Test	测试	reviewed_keep
+A light tap when you use an ability. A turns it on or off; D-pad left / right: how strong.	使用技能时短震动一次。按 A 启用／关闭；左右方向键调整强度。	retranslated
+A pulse when a cast finishes. A turns it on or off; D-pad left / right: how strong.	施法完成时震动一次。按 A 启用／关闭；左右方向键调整强度。	retranslated
+A soft rumble while you cast. A turns it on or off; D-pad left / right: how strong.	引导或读条施法期间轻微震动。按 A 启用／关闭；左右方向键调整强度。	retranslated
+A sharp jolt when a cast is interrupted. A turns it on or off; D-pad left / right: how strong.	施法被打断时明显震动一次。按 A 启用／关闭；左右方向键调整强度。	retranslated
+A tap each time you are hit. A turns it on or off; D-pad left / right: how strong.	受到攻击时轻微震动。按 A 启用／关闭；左右方向键调整强度。	retranslated
+A jolt on a critical hit. A turns it on or off; D-pad left / right: how strong.	受到暴击时明显震动。按 A 启用／关闭；左右方向键调整强度。	retranslated
+A pulse when a fight starts. A turns it on or off; D-pad left / right: how strong.	进入战斗时震动一次。按 A 启用／关闭；左右方向键调整强度。	retranslated
+A tap when a fight ends. A turns it on or off; D-pad left / right: how strong.	脱离战斗时轻微震动。按 A 启用／关闭；左右方向键调整强度。	retranslated
+Jump	跳跃	reviewed_keep
+A tap when you jump. A turns it on or off; D-pad left / right: how strong.	跳跃时短震动一次。按 A 启用／关闭；左右方向键调整强度。	retranslated
+A pulse when someone whispers you. A turns it on or off; D-pad left / right: how strong.	收到密语时震动提醒。按 A 启用／关闭；左右方向键调整强度。	retranslated
+A jolt when you hook a fish. A turns it on or off; D-pad left / right: how strong.	钓鱼上钩时震动提醒。按 A 启用／关闭；左右方向键调整强度。	retranslated
+From the Side	侧面	reviewed_keep
+View	查看	reviewed_keep
+Zoom Out	缩小	reviewed_keep
+Turn to Target	转向目标	reviewed_keep
+Close-Up	特写	reviewed_keep
+The camera comes in close while you talk to anyone.	与 NPC 交谈时镜头会自动拉近。	retranslated
+Grid	网格	reviewed_keep
+Spells	法术	reviewed_keep
+Item Pickers	物品选择器	reviewed_keep
+Item Picker (Enchants, Poisons, Stones)	物品选择器（附魔、毒药、石头）	reviewed_keep
+On: in the Mini Bag one A disenchants the lit item at once. A disenchanted item can't be got back. Off: A asks first, A again disenchants.	开启后，在迷你背包里对选中的装备按一次 A 即可立即分解。分解后无法找回；关闭后第一次按 A 显示确认，再按一次才执行分解。	retranslated
+Open the Tracking List	打开追踪列表	reviewed_keep
+Closed	已关闭	reviewed_keep
+Tracking List Button	追踪列表按钮	reviewed_keep
+On: a small button on the minimap opens the list.	开启：小地图上的小按钮可打开列表。	reviewed_keep
+Nearby	附近	reviewed_keep
+Auto-Place	自动放置	reviewed_keep
+Item Picker	物品选择器	reviewed_keep
+Disenchant	分解	reviewed_keep
+Open Tracking List	打开追踪列表	reviewed_keep
+Map Button	地图按钮	reviewed_keep
+Shows	显示	reviewed_keep
+Mark the Pick	在小地图标记当前选项	retranslated
+Left Bar	左侧动作条	retranslated
+Move / Resize Left Bar	移动／缩放左侧动作条	retranslated
+Left Bar Direction	左侧动作条排列方向	retranslated
+Up and Down	上下	reviewed_keep
+Left Bar Buttons	左侧动作条按钮数量	retranslated
+Right Bar	右侧动作条	retranslated
+Move / Resize Right Bar	移动／缩放右侧动作条	retranslated
+Right Bar Direction	右侧动作条排列方向	retranslated
+Right Bar Buttons	右侧动作条按钮数量	retranslated
+Binds	按键绑定	retranslated
+None	无	reviewed_keep
+Show Button Names	显示按钮名称	reviewed_keep
+The bar at the left edge.	位于屏幕左侧的额外动作条。	retranslated
+The bar at the right edge.	位于屏幕右侧的额外动作条。	retranslated
+Reset Position	重置位置	reviewed_keep
+D-pad	十字方向键	reviewed_keep
+Edit Layout: All D-pad	编辑布局：整个十字方向键	retranslated
+Edit Layout: D-pad Up	编辑布局：方向键向上	reviewed_keep
+Edit Layout: D-pad Down	编辑布局：方向键向下	reviewed_keep
+Edit Layout: D-pad Left	编辑布局：方向键左	reviewed_keep
+Edit Layout: D-pad Right	编辑布局：方向键右侧	reviewed_keep
+Edit Layout: All A B X Y	编辑布局：全部 A B X Y	reviewed_keep
+Small	小号	reviewed_keep
+Size of the icons on A / B / X / Y and the D-pad.	调整 A／B／X／Y 及十字方向键图标的大小。	retranslated
+Edit Layout: All	编辑布局：全部	reviewed_keep
+Edit Layout: Up	编辑布局：向上	reviewed_keep
+Edit Layout: Down	编辑布局：向下	reviewed_keep
+Edit Layout: Left	编辑布局：左	reviewed_keep
+Edit Layout: Right	编辑布局：右	reviewed_keep
+Icons	图标	reviewed_keep
+Style	样式	reviewed_keep
+Size in Text	文本大小	reviewed_keep
+Position	位置	reviewed_keep
+Icon Size	图标大小	reviewed_keep
+Other Icons	其他图标	reviewed_keep
+All Buttons	所有按钮	reviewed_keep
+Set All at Once	一次设置所有按键	retranslated
+Every Modifier	所有组合键	reviewed_keep
+In Combat	战斗中	reviewed_keep
+A second D-pad set for a fight or a hostile target. Bind it: All Keybinds, L3.	进入战斗或选中敌对目标时，为十字方向键启用另一套按键绑定。可在“全部按键绑定 → L3”中设置。	retranslated
+A second LB / RB set for a fight or a hostile target. Bind it: All Keybinds, L3.	进入战斗或选中敌对目标时，为 LB／RB 启用另一套按键绑定。可在“全部按键绑定 → L3”中设置。	retranslated
+A second L3 / R3 set for a fight or a hostile target. Bind it: All Keybinds, L3.	进入战斗或选中敌对目标时，为 L3／R3 启用另一套按键绑定。可在“全部按键绑定 → L3”中设置。	retranslated
+A second Start set for a fight or a hostile target. Bind it: All Keybinds, L3.	进入战斗或选中敌对目标时，为 Start 启用另一套按键绑定。可在“全部按键绑定 → L3”中设置。	retranslated
+A second Select set for a fight or a hostile target. Bind it: All Keybinds, L3.	进入战斗或选中敌对目标时，为 Select 启用另一套按键绑定。可在“全部按键绑定 → L3”中设置。	retranslated
+A second L4 / R4 set for a fight or a hostile target. Bind it: All Keybinds, L3.	进入战斗或选中敌对目标时，为 L4／R4 启用另一套按键绑定。可在“全部按键绑定 → L3”中设置。	retranslated
+A second L5 / R5 set for a fight or a hostile target. Bind it: All Keybinds, L3.	进入战斗或选中敌对目标时，为 L5／R5 启用另一套按键绑定。可在“全部按键绑定 → L3”中设置。	retranslated
+A second Xbox button set for a fight or a hostile target. Bind it: All Keybinds, L3.	进入战斗或选中敌对目标时，为 Xbox／Home 键启用另一套按键绑定。可在“全部按键绑定 → L3”中设置。	retranslated
+A second E1 - E4 set for a fight or a hostile target. Bind it: All Keybinds, L3.	进入战斗或选中敌对目标时，为 E1–E4 启用另一套按键绑定。可在“全部按键绑定 → L3”中设置。	retranslated
+Active	已启用	retranslated
+Edit Loadout 1 in All Keybinds	在“全部按键绑定”中编辑配置方案 1	retranslated
+Press the buttons	按下按钮	reviewed_keep
+Not saved	未保存	reviewed_keep
+Leave As Is	保持原样	reviewed_keep
+Don't Change	不要改变	reviewed_keep
+Empty	空	reviewed_keep
+Settings	设置	reviewed_keep
+3 loadouts	3 套配置方案	retranslated
+Each loadout's own gear.	每套配置方案可保存不同装备。	retranslated
+Its own binds; the one you start with.	此方案独立的按键绑定，也是你最初使用的方案。	retranslated
+Its own binds.	此方案独立的按键绑定。	retranslated
+Edit in All Keybinds	在“全部按键绑定”中编辑	retranslated
+Bind to a Button	绑定到按钮	reviewed_keep
+Spec: Don't Change	专精：保持当前专精	retranslated
+Clear	清除	reviewed_keep
+Swap Gear: On	装备切换：开启	retranslated
+Follow My Spec: On	按专精自动切换：开启	retranslated
+Healing Mode	治疗模式	reviewed_keep
+Aura Priority checks your own effects on the picked member on every press: your own buffs, not cooldowns, health, range or cast success (a shield can still fail while Weakened Soul is on). Missing rule 1 always takes priority again. Configure out of combat.	每次按键检查所选队友身上由你施加的效果。只检测你的增益／持续治疗效果，不检测技能冷却、血量、距离或施法成功。目标有「虚弱灵魂」时护盾仍可能施放失败。请脱战配置。	reviewed_keep
+Single Heal mode uses this spell. Aura Priority: apply this first if your effect is missing. Off disables Press Again.	单一治疗模式使用此技能；效果优先模式下，目标缺少该效果时优先尝试施放。关闭会禁用再次按键治疗。	reviewed_keep
+Aura Priority: cast this only when your earlier effects are present and this effect is missing. Choose a heal with a lasting buff, such as Regrowth or Renew; Off skips this rule.	效果优先模式下，前序效果已存在且目标缺少此持续治疗效果时才尝试施放；适合「恢复」等持续治疗技能。关闭可跳过该规则。	reviewed_keep
+Not bound	未绑定	reviewed_keep
+Choose a single heal or an aura priority: first missing heal-over-time or shield, then a fallback.	选择单一治疗技能，或优先补缺失的持续治疗／护盾效果，然后使用后备治疗。	reviewed_keep
+With Party D-pad or 5 Buttons on. On: your combat sets work out of a fight too. Off: only in a fight, the same as with Party mode off.	启用队伍方向键或 5 键选人时，可设置战斗按键组是否在非战斗状态也生效。开启：脱战也生效；关闭：只有战斗中生效，与队伍模式关闭时相同。	retranslated
+Which four buttons pick: the D-pad, or A / B / X / Y.	选择用于选队友的四个按键：十字方向键，或 A／B／X／Y。	retranslated
+The modifier the Party Pick buttons are on. Off that modifier the buttons do their own binds.	设置队友选择键在哪个组合键层生效；离开该组合层后，按键恢复原有绑定。	retranslated
+None (Alone)	无（直接按键）	retranslated
+Keep on Every Modifier	在所有组合层生效	reviewed_keep
+Focus	焦点目标	retranslated
+Self	自己	reviewed_keep
+Put Party Wheel on a Button	将队友轮盘绑定到按键	reviewed_keep
+Pressing this bind turns the Party Wheel on and off (in a fight: when the fight ends). Off: the wheel never opens, even on a spell.	按此快捷键可以打开／关闭队友轮盘。战斗中切换可能需要等到脱战；关闭轮盘后，即使施放友方技能也不会自动打开。	retranslated
+On: a heal, cleanse or blessing with no friendly target opens the wheel. Point a stick at someone and let go: it's cast on them.	开启后，当治疗、驱散或祝福技能没有有效友方目标时会打开队友轮盘。摇杆指向队友并松开即可施放该技能。	retranslated
+Opens All Keybinds on your Party Set: its binds take over while a friend is your target. A button with nothing in it keeps its normal bind.	在“全部按键绑定”中打开队伍治疗按键方案。选中友方目标时，队伍方案的绑定会生效；此方案中未设置的按钮继续沿用正常绑定。	retranslated
+How the one you picked is marked: Corners, Thick Ring, Glow, Crosshair or Cursor. With Cursor, its own rows show beside it.	选择队友时的标记样式：角标、粗圆环、发光、准星或光标。使用“光标”时，还会显示专属设置项。	retranslated
+Highlight Color	高亮颜色	retranslated
+Its colour. Your focus target is always purple.	设置标记颜色，焦点目标始终显示紫色。	retranslated
+Highlight Pulse	高亮脉冲效果	retranslated
+Left	左	reviewed_keep
+Thin	薄	reviewed_keep
+The fill's colour: the highlight's, or Gold, White, Blue, Red or Purple.	设置填充颜色：可跟随高亮色，或使用金、白、蓝、红、紫等颜色。	retranslated
+On: each press of its bind buffs the next player near you who needs your buff. In a fight it goes down the list made when the fight began.	每次按键都会尝试为附近下一名缺少指定增益的队友施放技能。战斗期间按进入战斗时确定的队友列表顺序处理。	retranslated
+A small line beside your party frames: how many need your buff and who's next. It flashes when someone new needs it. Move it in Edit Layout.	在队伍框体旁显示一行提示，说明还有多少人缺少该增益，以及下一位施法目标。新的需求出现时会闪烁。可在“编辑布局”中移动。	retranslated
+Mark of the Wild (not learned)	野性印记（尚未学会）	retranslated
+5 min	5 分钟	reviewed_keep
+On: the bar button with a Buff Radar bind glows while someone near you needs its buff.	附近有队友缺少指定增益时，对应的增益监控快捷键会发光提示。	retranslated
+Press the button you want Buff Radar on. It's also in All Keybinds, Game Actions.	按下要绑定增益监控的手柄按键。也可以在“全部按键绑定 → 游戏操作”中设置。	retranslated
+A small line of its own, under Buff Radar's: how many need its buff and who's next. Move it in Edit Layout.	在增益监控下方显示独立的第二行，标明需要补增益的人数和下一位目标。可在“编辑布局”中移动。	retranslated
+Thorns (not learned)	荆棘术（尚未学会）	retranslated
+Tanks	坦克	reviewed_keep
+A small line under Buff Radar's: how many need a dispel and who's next, in the debuff's colour. Move it in Edit Layout.	在增益监控下方显示需要驱散的人数及下一位目标，并以负面效果颜色标记。可在“编辑布局”中移动。	retranslated
+Game's Default	游戏原生默认	retranslated
+On: that glow pulses (the game's own pulse). Off: as the game had it.	开启后，队伍框体高亮使用游戏原生脉冲效果；关闭后保留原本显示方式。	retranslated
+On: the button with your Dispel Radar bind glows while someone near you has something you can remove.	附近有队友中了你能驱散的效果时，驱散监控绑定的按键会发光提示。	retranslated
+Put Dispel Radar on a Button	将驱散雷达放在按钮上	reviewed_keep
+Press the button you want Dispel Radar on. It's also in All Keybinds, Game Actions.	按下要绑定驱散监控的按键，也可以从“全部按键绑定 → 游戏操作”设置。	retranslated
+How the one you pick is marked	选中队友的标记方式	retranslated
+5 Buttons	五个选人按键	retranslated
+On a Button	绑定到按键	retranslated
+Press Again	再次按键	reviewed_keep
+Modifier	组合键	reviewed_keep
+You and your party in a ring, with health bars.	将你和全部小队成员以环形排列，并显示各自的生命条。	retranslated
+On a Spell	由友方技能打开	retranslated
+Heal	治疗	reviewed_keep
+Wheel Look	轮盘外观	reviewed_keep
+Stay Open	治疗后保持打开	retranslated
+Highlight	高亮标记	retranslated
+How the one you picked is marked.	如何标记当前选中的队友。	retranslated
+Pulse	脉冲	reviewed_keep
+One bind buffs the next player who needs it.	用一个快捷键为下一位缺少增益的队友施法。	retranslated
+A bind of its own for one more of your buffs.	为另一项增益法术设置独立快捷键。	retranslated
+One bind removes the next debuff you can; frames light up for it.	按一次快捷键尝试驱散下一名符合条件的队友，相关队伍框体会高亮提示。	retranslated
+Glow Pulse	发光脉冲	reviewed_keep
+Alone	单独操作	retranslated
+Nothing	不执行任何操作	retranslated
+Hold a button about half a second, then let go, for a second bind on it. A quick tap does the button's own bind as you let go.	按住按键约半秒再松开以触发第二个绑定；快速短按则执行该键的原有动作，动作在松开时生效。	retranslated
+Selling	出售	reviewed_keep
+A second set of binds for a fight or a hostile target.	用于战斗或敌对目标的第二组绑定。	reviewed_keep
+Main  (in use)	主配置（使用中）	retranslated
+Tank	坦克	reviewed_keep
+Healer	治疗	reviewed_keep
+R3 inside, or < > here: switch	按 R3 进入，或使用这里的 < 与 > 切换配置方案。	retranslated
+Undo Last Bind	撤销上次按键绑定	retranslated
+Next Set	下一组	reviewed_keep
+-  D-pad Up past the top button reaches Extra Buttons and combo options.	将十字方向键向上推过顶端按钮，可进入扩展按键及组合设置。	retranslated
+Final Fantasy Layout	FF 风格布局	retranslated
+Hidden	隐藏	reviewed_keep
+No Trigger	未按扳机键	reviewed_keep
+Move Left / Right	左/右移动	reviewed_keep
+Move Up / Down	上下移动	retranslated
+When in Use	使用期间	retranslated
+L4 / R4 Back Buttons	L4 / R4 背键	reviewed_keep
+Set Up L4	设置 L4	reviewed_keep
+Set Up R4	设置 R4	reviewed_keep
+Edit Layout: Move All L4 / R4	编辑布局：移动所有 L4 / R4	reviewed_keep
+Edit Layout: L4	编辑布局：L4	reviewed_keep
+Edit Layout: R4	编辑布局：R4	reviewed_keep
+L5 / R5 Back Buttons	L5 / R5 背键	reviewed_keep
+Set Up L5	设置 L5	reviewed_keep
+Set Up R5	设置 R5	reviewed_keep
+Edit Layout: Move All L5 / R5	编辑布局：移动所有 L5 / R5	reviewed_keep
+Edit Layout: L5	编辑布局：L5	reviewed_keep
+Edit Layout: R5	编辑布局：R5	reviewed_keep
+Extra Buttons Sit	扩展按钮摆放位置	retranslated
+Extra Buttons (E1 - E4)	额外按钮 (E1 - E4)	reviewed_keep
+Four more buttons (Flydigi C, Z, LM, RM). Set each up below first.	另有四个扩展键（飞智 C、Z、LM、RM），请先分别完成下方设置。	retranslated
+Set Up E1	设置E1	reviewed_keep
+Set Up E2	设置 E2	reviewed_keep
+Set Up E3	设置 E3	reviewed_keep
+Set Up E4	设置 E4	reviewed_keep
+Show and Name	显示及命名	retranslated
+Shown / Hidden	显示/隐藏	reviewed_keep
+Show L4	显示L4	reviewed_keep
+L4 Name	L4 名称	reviewed_keep
+Show R4	显示R4	reviewed_keep
+R4 Name	R4 名称	reviewed_keep
+Show L5	显示L5	reviewed_keep
+L5 Name	L5 名称	reviewed_keep
+Show R5	显示R5	reviewed_keep
+R5 Name	R5 名称	reviewed_keep
+Show E1	显示E1	reviewed_keep
+E1 Name	E1名称	reviewed_keep
+Show E2	显示E2	reviewed_keep
+E2 Name	E2 名称	reviewed_keep
+Show E3	显示E3	reviewed_keep
+E3 Name	E3 名称	reviewed_keep
+Show E4	显示E4	reviewed_keep
+E4 Name	E4 名称	reviewed_keep
+Show G1	显示G1	reviewed_keep
+G1 Name	G1 名称	reviewed_keep
+Show G2	显示G2	reviewed_keep
+G2 Name	G2名称	reviewed_keep
+Show G3	显示 G3	retranslated
+G3 Name	G3名称	reviewed_keep
+Show G4	显示G4	reviewed_keep
+G4 Name	G4 名称	reviewed_keep
+Show G5	显示 G5	retranslated
+G5 Name	G5名称	reviewed_keep
+Edit Layout: Move All E1 - E4	编辑布局：移动所有 E1 - E4	reviewed_keep
+Edit Layout: E1	编辑布局：E1	reviewed_keep
+Edit Layout: E2	编辑布局：E2	reviewed_keep
+Edit Layout: E3	编辑布局：E3	reviewed_keep
+Edit Layout: E4	编辑布局：E4	reviewed_keep
+Scuf 5 Buttons	SCUF 五个扩展键	retranslated
+Set Up Scuf Buttons	设置 Scuf 按钮	reviewed_keep
+Not set	未设置	reviewed_keep
+Edit Layout: All G1 - G5	编辑布局：所有 G1 - G5	reviewed_keep
+Edit Layout: G1	编辑布局：G1	reviewed_keep
+Edit Layout: G2	编辑布局：G2	reviewed_keep
+Edit Layout: G3	编辑布局：G3	reviewed_keep
+Edit Layout: G4	编辑布局：G4	reviewed_keep
+Edit Layout: G5	编辑布局：G5	reviewed_keep
+All Back Buttons	所有背键	reviewed_keep
+Check My Back Buttons	检测背键输入	reviewed_keep
+Reset Back Buttons	重置背键	reviewed_keep
+Four more buttons (Flydigi C, Z, LM, RM).	四个额外按键（飞智 C、Z、LM、RM）。	retranslated
+The SCUF Envision's G1 - G5 row.	SCUF Envision 手柄的 G1–G5 按键组。	retranslated
+Set Up G1 - G5	设置 G1 - G5	reviewed_keep
+Check Them	检测按键	retranslated
+Reset All	全部重置	reviewed_keep
+My Profiles	我的配置文件	retranslated
+Save a Profile	保存配置文件	retranslated
+Nothing saved	没有保存任何内容	reviewed_keep
+Older settings-only profile. Load it, then Upgrade Older Profile to enable automatic saving. A: load (reloads). X: rename. Y: delete.	这是只保存设置的旧版配置文件。加载后，可通过“升级旧配置文件”将其转换为新格式并启用自动保存。A：加载并重载界面；X：重命名；Y：删除。	retranslated
+Delete	删除	reviewed_keep
+Upgrade Older Profile	升级旧版配置文件	retranslated
+Turn an older settings-only profile into one that saves itself, from your look, layout and settings now.	将仅含设置的旧版配置文件升级为新的可保存格式，并使用你当前的外观、布局和设置。	retranslated
+None loaded	未加载	reviewed_keep
+Undo Profile Load	撤销加载配置文件	retranslated
+Put back the look, layout and settings you had before the last profile load. Binds aren't touched. Reloads.	恢复上次加载配置文件前的外观、布局及设置，按键绑定不会改变。需要重新加载界面。	retranslated
+Default Settings	默认设置	reviewed_keep
+Load My Default Settings	加载我的默认设置	reviewed_keep
+Puts your Default Settings on this character now. Binds stay. Reloads; Undo Reset Settings puts yours back.	将保存的默认设置应用到当前角色，保留按键绑定并重新加载界面。可通过“撤销重置设置”恢复。	retranslated
+Use My Default	使用我的默认设置	retranslated
+Default Keybinds	默认按键绑定	reviewed_keep
+This character's binds only. A: load (reloads; not while Lock My Binds is on). X: rename. Y: delete.	仅显示当前角色保存的按键绑定。按 A 加载（需要重新加载界面，锁定按键时不可用）；X 重命名；Y 删除。	retranslated
+Puts your Default Keybinds on this loadout now. Your class abilities stay where it has nothing. Undo Keybind Load puts yours back.	将默认按键方案应用到当前配置方案。未被覆盖的职业技能保持原位；可使用“撤销按键方案加载”恢复。	retranslated
+Use Default Keybinds	使用默认按键绑定	reviewed_keep
+Export / Import	导出/导入	reviewed_keep
+Nothing to undo	没有可撤销的操作	retranslated
+Discover setups shared by group members and request them without targeting anyone. Experimental.	发现其他小队成员共享的配置方案，可以在不选中目标的情况下请求获取（实验性）。	retranslated
+Resets	重置	reviewed_keep
+Every setting back to Controller Forever's own settings. Binds stay. Reloads. Undo below.	将全部设置恢复为 Controller Forever 默认值，但保留按键绑定。界面会重新加载，可使用下方撤销功能恢复。	retranslated
+Settings saved only for new characters.	仅供新角色使用的已保存设置。	retranslated
+Set up and lock your binds, save this character's binds only (My Keybinds), or save the binds new characters start with.	设置及锁定快捷键，可仅保存当前角色的按键方案，或保存新角色使用的默认按键方案。	retranslated
+Save	保存	reviewed_keep
+Binds: Unlocked	按键绑定：未锁定	retranslated
+Save Default	保存默认值	reviewed_keep
+Load Default	加载默认值	reviewed_keep
+Default: On	默认设置：开启	retranslated
+Your setup as a code for a friend (export), or load one (import).	将当前配置导出为代码供其他玩家使用，或导入他人分享的配置代码。	retranslated
+Import	导入	reviewed_keep
+Undo	撤销操作	retranslated
+Binds or settings back to the start, and their undos.	恢复初始按键绑定或设置，并提供撤销选项。	retranslated
+Trigger Bar	扳机键动作条	reviewed_keep
+Dim Others	淡化其他动作条	retranslated
+Size	大小	reviewed_keep
+How big the Trigger Bar is, on top of your whole layout's size.	在整体布局缩放设置基础上，单独调整扳机动作条的大小。	retranslated
+Reset Trigger Bar	重置扳机键动作条	reviewed_keep
+The Trigger Bar back where it starts, at its starting size, Dim Others too.	将扳机动作条恢复默认位置、大小及其他动作条淡化设置。	retranslated
+Edit Layout: Select	编辑布局：选择	reviewed_keep
+Bind Select On (to start): Select alone is the game's Select, LT + Select this menu. Off: Select opens this menu.	启用 Select 自定义绑定：单按 Select 使用游戏原本功能，LT＋Select 打开本菜单。关闭：单按 Select 直接打开本菜单。	retranslated
+Menu	菜单	reviewed_keep
+Menu Size	菜单大小	retranslated
+This menu bigger or smaller (60% - 150%). It never gets bigger than your screen.	将此菜单缩放至 60%–150%，但不会超过屏幕范围。	retranslated
+Start Menu Centered	Start 菜单居中	retranslated
+Centres the game's Start menu.	使游戏原生 Start 菜单居中显示。	retranslated
+Form Color Rings	形态颜色圆环	retranslated
+On: every button gets a ring in your form or stance colour.	在各动作按钮周围显示当前形态或姿态的代表色圆环。	retranslated
+Cannibalize on Interact	交互键使用食尸技能	retranslated
+Stop Attacking on Interact	交互键可停止自动攻击	retranslated
+With Auto Loot on: the loot window doesn't pop up while it empties. If something is left (full bags, an item that asks first) it shows.	启用自动拾取后，物品自动进入背包时不弹出拾取窗口。如果背包已满或某件物品需要确认，仍会显示窗口。	retranslated
+Chat	聊天	reviewed_keep
+Whisper Alert	密语提醒	retranslated
+On Screen: who and what, a moment. Reply Box: the reply keyboard opens (out of a fight). Bind: Reply to Whisper.	屏幕提示：短暂显示发信人和密语内容。回复框：脱战时打开手柄回复键盘。还可单独绑定“回复密语”快捷键。	retranslated
+Voice Chat Channel	语音聊天频道	retranslated
+Where the voice chat app's lines go (/cfchat). Back to Auto at every login. Bind: Voice Chat Channel toggles it in game.	设置语音聊天应用的消息发送到哪个频道（/cfchat）；每次登录恢复为自动模式。也可以通过“语音聊天频道”快捷键在游戏中切换。	retranslated
+Auto (your group)	自动（当前队伍）	retranslated
+Report Reminder	问题报告提醒	retranslated
+On: after a reload, one line in chat says when Controller Forever recorded problems, and where the file to send is.	开启后，重新加载界面时，如果 Controller Forever 曾记录错误，会在聊天框显示记录时间与可提交的日志文件位置。	retranslated
+Quests	任务设置	retranslated
+Auto Accept Quests	自动接取任务	retranslated
+Takes quests for you. Not with the game's controller UI on: there your A takes them.	自动接受任务。若游戏原生手柄界面已开启，则由 A 键操作任务接取，本功能不接管。	retranslated
+Auto Turn In Quests	自动交付任务	retranslated
+With the controller UI: the first page is turned for you, the reward is your A (closing it from an addon breaks LT / RT).	使用手柄界面时自动推进任务对话的第一页，但任务奖励仍需你按 A 选择；由其他插件强行关闭任务对话可能打断 LT／RT 操作。	retranslated
+Trackpad	触控板	retranslated
+Mouse / Trackpad Takeover	鼠标／触控板接管	retranslated
+What touching the mouse or trackpad does while on the controller.	使用手柄时，触摸鼠标或触控板应触发的行为。	retranslated
+not available in this client	当前客户端不支持	retranslated
+Trackpad Pointer Hand-Off	触控板指针接管	retranslated
+On: a click or tap frees the pointer until you touch the controller.	开启后，点击鼠标或轻触触控板将暂时释放鼠标指针，直到再次使用手柄。	retranslated
+Trackpad Picks in Wheels	触控板选择轮盘项目	retranslated
+Steam Deck: the trackpad pointer picks in wheels.	Steam Deck：使用触控板指针选择轮盘菜单项。	retranslated
+Stick Pointer Speed	摇杆鼠标指针速度	retranslated
+How fast the right stick moves the Mouse Pointer bind.	右摇杆控制“鼠标指针”快捷键时的移动速度。	retranslated
+How the menu and the game's messages act.	菜单与游戏消息的显示和操作方式。	retranslated
+Whispers and the voice chat app's lines.	密语与语音聊天工具的消息。	retranslated
+Center Start Menu	Start 菜单居中	retranslated
+Interact Stops Attack	交互时停止自动攻击	retranslated
+Whispers	密语	retranslated
+Voice Chat	语音聊天	reviewed_keep
+Talking to quest givers.	与任务 NPC 的对话设置。	retranslated
+Auto Accept	自动接取	retranslated
+Auto Turn In	自动交付	retranslated
+The trackpad, the mouse and the stick pointer.	触控板、鼠标及摇杆控制的指针。	retranslated
+Pointer Hand-Off	指针切换	retranslated
+Picks in Wheels	通过轮盘选择	retranslated
+Stick Speed	摇杆指针速度	retranslated
+Edit Layout: Both LB and RB	编辑布局：LB 和 RB	reviewed_keep
+Edit Layout: LB	编辑布局：LB	reviewed_keep
+Edit Layout: RB	编辑布局：RB	reviewed_keep
+Hold Binds	长按快捷键	retranslated
+LT + LB Hold Binds	LT＋LB 长按绑定	retranslated
+RT + RB Hold Binds	RT＋RB 长按绑定	retranslated
+Holding LB / RB: Hold Binds Only	长按 LB／RB：只执行长按绑定	retranslated
+On (to start): only a quick tap does LB's / RB's own bind. Held (in a fight too), only your hold binds work.	开启后，快速短按 LB／RB 执行该键原有动作；长按时（包括战斗中）只触发设定的长按绑定。	retranslated
+Modifiers	组合键	reviewed_keep
+LB as a Modifier	L1 作为组合键	reviewed_keep
+RB as a Modifier	R1 作为组合键	reviewed_keep
+LB / RB as your own buttons. Hold both and push the right stick to zoom.	将 LB／RB 设为独立按钮。同时按住两键并推动右摇杆可以缩放镜头。	retranslated
+LB / RB holds (on while LB / RB are modifiers): bind them in All Keybinds.	当 LB／RB 作为组合键时，可在“全部按键绑定”中设置其长按操作。	retranslated
+Edit Layout: Both	编辑布局：两者	reviewed_keep
+Hold Binds Only	仅长按绑定	retranslated
+Off: that button is a plain button, its hold binds wait.	关闭后，该键按普通按钮处理，长按绑定不会触发。	retranslated
+CF Look (Every Skin)	CF 外观（全部皮肤）	retranslated
+Ready-Made Look	预设外观	retranslated
+Make It My Own: every skin on, every line yours to change. Left / right: the next look.	使用自定义外观：允许修改所有皮肤与各项细节。左右方向键切换其他预设。	retranslated
+Make It My Own	使用自定义外观	retranslated
+Accent Color	强调色	reviewed_keep
+One colour for the borders and frame art of every skin.	使用一种强调色统一控制各皮肤的边框和装饰框体。	retranslated
+Border	边框	reviewed_keep
+The border round the minimap, chat and meter.	小地图、聊天窗与伤害统计面板的边框。	retranslated
+Backgrounds	背景	reviewed_keep
+Dark: solid black behind the chat and meter.	深色：聊天及伤害统计面板采用纯黑背景。	retranslated
+Bar Texture	进度条纹理	retranslated
+The bars of the meter and your frames.	伤害统计与单位框体中生命／资源条的纹理。	retranslated
+Tooltips	工具提示	reviewed_keep
+Dark: the game's tooltips in a flat dark panel with a thin edge.	深色：游戏的工具提示位于带有细边的平坦深色面板中。	reviewed_keep
+Font	字体	retranslated
+Text Outline	文字描边	retranslated
+A dark edge round the text.	为文字加上深色轮廓，使其更容易辨认。	retranslated
+All Game Text Font	全部游戏文字字体	retranslated
+Every bit of game text in this font. Experimental. Your Own Font: as CF Look > Font says.	将此字体应用到游戏所有文字（实验性）。若使用自定义字体，请按“CF 外观 → 字体”的说明放置文件。	retranslated
+All Game Text Size	全部游戏文字大小	retranslated
+Every bit of game text smaller or bigger. Experimental.	统一放大或缩小游戏中的文字（实验性）。	retranslated
+CF Window Look	CF 窗口外观	retranslated
+CF Ornate	CF 华丽风格	retranslated
+CF Window Background	CF 窗口背景	reviewed_keep
+CF Window Border	CF 窗口边框	reviewed_keep
+Ornate	华丽	reviewed_keep
+CF Window Color	CF 窗口颜色	reviewed_keep
+CF Gold	CF 金色	retranslated
+CF Windows: Gold as Text	CF 窗口：使用文字显示金币	retranslated
+Prices as 3g 30s 40c instead of coin pictures, in Controller Forever's own windows.	在 CF 自定义窗口中，以 3g 30s 40c 这样的文本显示价格，而不是金币、银币、铜币图标。	retranslated
+CF Windows: Game's Tooltip Too	CF 窗口：同时显示游戏原生提示框	retranslated
+The game's own item tooltip beside Controller Forever's windows too (it covers part of the screen).	在 CF 自定义窗口旁同时显示游戏原生物品提示框；可能遮挡部分界面。	retranslated
+CF Windows: Window Size	CF 窗口：窗口大小	retranslated
+How big Controller Forever's own windows are, 80 to 110 %.	调整 CF 自定义窗口大小，范围 80%–110%。	retranslated
+Frames	单位框体	retranslated
+Move Your Frame in Edit Layout	在编辑布局中移动玩家框体	retranslated
+Mirror Target Frame With Your Frame	使目标框体与玩家框体镜像排列	retranslated
+On: your target's frame sits opposite yours, the same height, as in a mirror. Move yours and it follows.	开启后，当前目标框体与玩家框体左右对称、高度一致；移动玩家框体时目标框体会跟随。	retranslated
+Move the Target Frame in Edit Layout	在编辑布局中移动目标框体	retranslated
+Frame Style	框体风格	retranslated
+Kingdom Hearts Portrait	王国之心风格头像	retranslated
+Right	右侧	retranslated
+Window Style	窗口风格	retranslated
+Classic: the old silver border on vendor, mail, quest and other small windows. Reloads.	经典：为商人、邮箱、任务等小窗口使用旧版银色边框。修改后需要重新加载界面。	retranslated
+Frames Skin	框体皮肤	retranslated
+Skin Which Frames	要替换外观的单位框体	retranslated
+All	全部	reviewed_keep
+Frame Art	框体装饰	retranslated
+The art round the portrait and bars, an elite's gold dragon and the level's circle too.	头像和生命／资源条周围的装饰，包括精英怪的金龙标记及等级圆环。	retranslated
+Frame Color	框体颜色	retranslated
+The frame art's colour.	框体装饰的颜色。	retranslated
+Portrait	头像	retranslated
+A face, a class icon, or no portrait.	选择显示角色头像、职业图标，或不显示头像。	retranslated
+How see-through the frames are.	调整单位框体的透明度。	retranslated
+Opacity in Combat	战斗时不透明度	retranslated
+The same, in a fight.	设置战斗状态下同样的透明度。	retranslated
+Health Bar Texture	生命条纹理	reviewed_keep
+The health bar's fill.	生命条填充样式	retranslated
+Health Bar Color	生命条颜色	reviewed_keep
+Class / Reaction colours, or Green to Red by health.	使用职业／敌友关系颜色，或根据血量从绿色渐变到红色。	retranslated
+Low Health Color	低生命值提示颜色	retranslated
+The health bar changes colour under this much health.	生命值低于指定阈值时改变生命条颜色。	retranslated
+Low Health Color Is	低血量颜色	retranslated
+The low health colour.	选择低生命值提示颜色。	retranslated
+Power Bar Texture	资源条填充样式	retranslated
+The mana / rage / energy bar's fill.	调整法力、怒气及能量条的填充效果。	retranslated
+Power Color	资源条颜色	retranslated
+Health / Power Gap	生命条／资源条间距	retranslated
+Pixels between your frame's health and power bars, so their numbers read apart. Left / right.	调整单位框体内生命条和资源条之间的像素间距，便于区分数值。左右方向键调整。	retranslated
+The numbers on the bars.	生命值与资源数值的显示。	retranslated
+Mana: Five-Second Rule	法力：五秒回蓝规则	retranslated
+A spark on your mana bar for the 5 seconds after a spell. Experimental.	在施法后的五秒回蓝限制期间，于法力条显示计时光效（实验性）。	retranslated
+Druid Mana in Forms	德鲁伊变形时显示法力	retranslated
+Druids: a thin mana bar in Bear and Cat Form. Experimental.	德鲁伊使用熊形态或猎豹形态时显示细法力条（实验性）。	retranslated
+Threat on Target	目标仇恨值	reviewed_keep
+Your threat on the target, as a % over its frame. Experimental.	在目标框体上显示你对该目标的仇恨百分比（实验性）。	retranslated
+The name, level and numbers' font. Your Own Font: as CF Look > Font says.	姓名、等级及数值的字体。自定义字体方法见“CF 外观 → 字体”。	retranslated
+Text Size	文字大小	reviewed_keep
+The name, level and numbers' size.	姓名、等级与数值文字的大小。	retranslated
+A dark edge round the letters.	为文字添加深色描边。	retranslated
+Name	名称	retranslated
+The name over the frame.	框体上方显示的名称。	retranslated
+Name Color	名称颜色	retranslated
+The name's colour.	名称文字的颜色。	retranslated
+Level	等级	reviewed_keep
+The level number and its circle.	显示等级数字及其圆环。	retranslated
+Name Background (Target)	名称背景（目标）	reviewed_keep
+The coloured strip behind the target's name.	目标名称后面的彩色背景条。	retranslated
+Combat / Rest Glow	战斗／休息状态高亮	retranslated
+The red fight glow and the yellow rest glow.	战斗时的红色高亮，以及休息时的黄色高亮。	retranslated
+Portrait Hit Numbers	头像伤害与治疗数字	retranslated
+Damage and healing numbers over your portrait.	显示在角色头像上的伤害及治疗数字。	retranslated
+Resting Zzz	休息状态 Zzz 标记	retranslated
+The Zzz by your portrait when resting.	休息时在头像旁显示 Zzz 标记。	retranslated
+PvP Icon	PvP 图标	reviewed_keep
+The PvP badge by the portrait.	显示在头像旁的 PvP 标记。	retranslated
+Leader / Role Icons	队长／职责图标	retranslated
+The leader crown, guide and role icons.	队长皇冠、团队向导及职责标记。	retranslated
+Raid Group Number	团队编号	reviewed_keep
+The Group tag over your frame in a raid.	团队中显示角色所处小队的编号。	retranslated
+Rare / Boss / Quest Icons	稀有怪／首领／任务图标	retranslated
+The rare star, boss skull and quest badges.	稀有怪星形、首领骷髅及任务标记。	retranslated
+Corner Ornament (Player)	玩家头像角落装饰	retranslated
+The gold piece on the player portrait's corner.	玩家头像角落的金色装饰。	retranslated
+The art round each portrait and bars.	头像及生命／资源条周围的装饰。	retranslated
+Raid-Style Borders	团队风格边框	reviewed_keep
+The thin lines round each raid-style frame. Crisp Line: ours, a sharp edge with a soft shadow.	团队风格框体周围的细边线。“锐利描边”使用带柔和阴影的清晰线条。	retranslated
+How see-through the party frames are (the raid frames too, in a raid).	调整小队框体的透明度；团队中也会应用于团队框体。	retranslated
+The health bars' fill.	生命条填充样式。	retranslated
+Class colours, or Green to Red by health.	采用职业颜色，或随生命值降低由绿变红。	retranslated
+Health Bar Background	生命条背景	retranslated
+Behind the health on raid-style frames.	团队风格框体中生命条后面的背景。	retranslated
+The names and numbers' font. Your Own Font: as CF Look > Font says.	姓名和数值的字体。自定义字体方法见“CF 外观 → 字体”。	retranslated
+The names and numbers' size.	姓名与数值文字大小。	retranslated
+Names	姓名	reviewed_keep
+The names over the frames.	框体上方的队员姓名。	retranslated
+The names' colour.	队员姓名的颜色。	retranslated
+Aggro Glow	仇恨高亮	retranslated
+Leader Icons	队长图标	retranslated
+The leader crown and guide icon.	队长皇冠和团队向导标记。	retranslated
+Role Icons	职责图标	retranslated
+The tank / healer / damage icons.	坦克／治疗／伤害输出职责图标。	retranslated
+PvP Icons	PvP 图标	reviewed_keep
+The PvP badges.	PvP 状态图标。	retranslated
+On: while the Party Wheel is open, a gold box on the party frame of who you point at.	开启后，队友轮盘打开时，当前指向的队友会在小队框体上显示金色高亮方框。	retranslated
+Personal Resource Display	个人资源显示	retranslated
+Personal Resource Display Skin	个人资源条外观	retranslated
+How see-through the bars are.	调整资源条的透明度。	retranslated
+The health bar's colour.	生命条填充颜色。	retranslated
+The mana / rage / energy bar's fill (and a druid's mana bar in forms).	法力／怒气／能量资源条的填充效果（包括德鲁伊变形时的法力条）。	retranslated
+Behind each bar: the game's dark frame, a flat dark one, solid black or nothing.	资源条背景可使用游戏原生暗色框、扁平暗色、纯黑或完全透明。	retranslated
+Bar Edge	资源条边框	retranslated
+A thin line round each bar.	为每条资源条添加细边线。	retranslated
+Edge Color	边框颜色	retranslated
+The thin line's colour (Game's: black).	细边线的颜色（游戏原生为黑色）。	retranslated
+The numbers' font. Your Own Font: as CF Look > Font says.	资源数字的字体。自定义字体方法见“CF 外观 → 字体”。	retranslated
+A dark edge round the numbers.	为数字添加深色描边。	retranslated
+Cast Bar	施法条	reviewed_keep
+CF Cast Bar	CF 自定义施法条	retranslated
+On: Controller Forever's cast bar above your buttons, or none at all (the row below). Off: the game's own cast bar.	开启后，使用动作按钮上方的 CF 自定义施法条，也可选择隐藏。关闭后则使用游戏原生施法条。	retranslated
+Game's own	游戏自带	reviewed_keep
+The bar's texture: Classic, Flat, Smooth or Glass.	选择施法条纹理：经典、扁平、平滑或玻璃效果。	retranslated
+Classic	经典	reviewed_keep
+Gold, your class color, or a fixed color.	使用金色、职业颜色或指定的固定颜色。	retranslated
+The bright edge that rides the front of the bar.	施法条填充前沿的高亮光效。	retranslated
+Spell Icon	法术图标	reviewed_keep
+The icon of the spell you're casting, left of the bar.	施法条左侧显示正在施放技能的图标。	retranslated
+Spell Name	法术名称	reviewed_keep
+The name of the spell on the bar.	施法条上显示的法术名称。	retranslated
+Cast Time	施法时间	reviewed_keep
+Time left, time left and the full cast time, or no numbers.	可仅显示剩余施法时间，同时显示剩余及总施法时间，或完全隐藏数字。	retranslated
+Channel Ticks	引导技能跳数标记	retranslated
+A mark for each tick of a channel, so you can stop between ticks.	为引导法术的每次生效间隔绘制标记，便于在合适的跳数后结束引导。	retranslated
+Last Tick in Gold	最后一跳金色标记	retranslated
+The last tick mark is gold: safe to move on.	最后一次引导生效标记显示为金色，便于判断何时可以安全移动。	retranslated
+Latency Zone	网络延迟区间	retranslated
+A red zone the size of your ping at the end. Press your next spell when the fill reaches it.	施法条末端显示代表当前网络延迟的红色区域。进度达到红区时可以提前按下一个技能。	retranslated
+Gray When Out of Range	超出距离时施法条置灰	retranslated
+The bar turns gray while your target is out of range.	当前目标超出技能射程时，施法条显示为灰色。	retranslated
+Minimap	小地图	retranslated
+Minimap Skin	小地图外观	retranslated
+On: CF's look for the minimap (the rows below).	开启后，为游戏小地图应用下方设置的 CF 外观。	retranslated
+The map's shape.	选择小地图形状。	retranslated
+Map Dot Size	小地图标记大小	retranslated
+Size of the dots on the map.	调整小地图上各种标记点的大小。	retranslated
+How see-through the minimap is.	调整小地图的透明度。	retranslated
+Zoom Back Out	自动恢复地图缩放	retranslated
+The map zooms back out by itself after this long.	经过设定时间后，小地图自动缩回默认比例。	retranslated
+Never	从不	reviewed_keep
+The edge round the map.	小地图边框。	retranslated
+The border's colour.	小地图边框颜色。	retranslated
+Border Pulse	边框呼吸高亮	retranslated
+Glow or Neon border: it slowly pulses.	发光或霓虹边框可以缓慢呼吸闪烁。	retranslated
+Border Spin	边框旋转	retranslated
+A round border turns.	让圆形小地图边框旋转。	retranslated
+Zone Name	区域名称	reviewed_keep
+The zone name bar over the map.	小地图上方的区域名称条。	retranslated
+Zone Name Color	区域名称文字颜色	retranslated
+The zone name's colour.	区域名称显示颜色。	retranslated
+Clock	时钟	retranslated
+The clock on the minimap.	小地图上的时钟。	retranslated
+Clock Color	时钟颜色	retranslated
+The clock's and coordinates' colour.	时钟及坐标文字颜色。	retranslated
+Coordinates	坐标	retranslated
+Your map coordinates on the minimap.	在小地图上显示角色所在坐标。	retranslated
+Frame Rate & Ping	帧率与延迟	retranslated
+Frame rate and ping on the map.	在小地图上显示帧率和网络延迟。	retranslated
+Zone & Clock Boxes	区域名称与时钟背景框	retranslated
+Zone name and clock in small dark boxes. Experimental.	在深色小方框中显示区域名称和时钟（实验性）。	retranslated
+Size of the zone name, clock and coordinates.	区域名称、时钟及坐标文字的大小。	retranslated
+Zoom Buttons	地图缩放按钮	retranslated
+The + / - zoom buttons: on mouse over, always, or hidden.	放大／缩小按钮可以设为鼠标悬停时显示、始终显示或隐藏。	retranslated
+Mouse Over	鼠标悬停时	retranslated
+Calendar Button	日历按钮	reviewed_keep
+The calendar button by the map.	小地图旁的日历按钮。	retranslated
+Tracking Button	追踪按钮	reviewed_keep
+The tracking button by the map.	小地图旁的追踪按钮。	retranslated
+Mail Icon	邮件图标	reviewed_keep
+The new-mail icon by the map.	小地图旁的新邮件提示图标。	retranslated
+Dungeon Difficulty	地下城难度	reviewed_keep
+The dungeon difficulty flag on the map.	小地图上的地下城难度标记。	retranslated
+Other Addons' Buttons	其他插件的小地图按钮	retranslated
+The buttons other addons put round the minimap.	其他插件添加在小地图周围的按钮。	retranslated
+Who Pinged	谁发送了地图信号	retranslated
+Who pinged the minimap shows for a few seconds.	在小地图上显示发出地图标记信号的玩家姓名，持续几秒钟。	retranslated
+Chat Skin	聊天窗口外观	retranslated
+On: CF's look for the chat (the rows below).	开启后，为聊天窗口应用下方设置的 CF 外观。	retranslated
+How see-through the chat is.	调整聊天窗口透明度。	retranslated
+Fade When Quiet	无消息时自动淡出	retranslated
+The whole chat fades out after this long with nothing new said. A new line, or opening it to type, brings it back.	聊天窗口在指定时间内没有新消息时自动淡出；出现新消息或打开输入框时重新显示。	retranslated
+Text Fades Out	聊天文字自动淡出	retranslated
+How long each line stays before it fades out on its own (the game's own fade).	每条聊天消息保留多长时间，然后按游戏原生效果自动淡出。	retranslated
+Background	背景	reviewed_keep
+Behind the chat: the game's, none, a colour, or a fade.	聊天窗口背景可选择游戏原生、无背景、固定颜色或淡出效果。	retranslated
+Background Color	背景颜色	reviewed_keep
+The background's colour.	聊天背景颜色。	retranslated
+Background Opacity	背景不透明度	reviewed_keep
+How solid the background is.	聊天背景的不透明度。	retranslated
+Background Shows	背景显示时机	retranslated
+Always, or only with the pointer over the chat.	始终显示，或仅当鼠标指针悬停聊天窗口时显示。	retranslated
+Always	始终	reviewed_keep
+A frame round the chat.	聊天窗口的边框。	retranslated
+The chat text font. Your Own Font: as CF Look > Font says.	聊天字体。自定义字体设置见“CF 外观 → 字体”。	retranslated
+Font Size	字体大小	reviewed_keep
+The chat text size, every window.	所有聊天窗口中文字的大小。	retranslated
+Text Shadow	文字阴影	retranslated
+The shadow under the letters.	文字下方的阴影。	retranslated
+Timestamps	时间戳	reviewed_keep
+The time in front of each line.	在每条聊天消息前显示时间。	retranslated
+Class Colored Names	职业颜色显示姓名	reviewed_keep
+Player names in their class colour.	按职业颜色显示玩家姓名。	retranslated
+Chat Tabs	聊天标签页	retranslated
+The General / Combat Log tabs.	综合频道与战斗日志标签。	retranslated
+Game's (Fade)	游戏原生（自动淡出）	retranslated
+Tab Flash	新消息标签闪烁	retranslated
+A tab flashes with a new message.	有新消息时，对应聊天标签会闪烁。	retranslated
+Tab Look	标签页样式	retranslated
+Flat: plain dark tabs with an accent line under the one you are on. Experimental.	扁平：暗色简洁标签，当前标签下方显示强调色线条（实验性）。	retranslated
+Typing Box	聊天输入框	retranslated
+Where the typing box sits.	聊天输入框的位置。	retranslated
+Below (Game's)	下方（游戏原生）	retranslated
+Typing Box Look	输入框外观	retranslated
+The typing box's frame.	聊天输入框的边框样式。	retranslated
+Chat Buttons	聊天窗口按钮	retranslated
+The menu, channel and friends buttons by the chat.	聊天窗口旁的菜单、频道及好友按钮。	retranslated
+Scroll Bar	滚动条	reviewed_keep
+The scroll bar and Jump to Bottom button.	滚动条和“跳至底部”按钮。	retranslated
+Empty Slots	空闲栏位	retranslated
+At the End: items first, every empty slot after.	先显示所有物品，再将空栏位集中排在末尾。	retranslated
+Game's Order	游戏原生顺序	retranslated
+Free Slots	空闲栏位	retranslated
+Full Window	完整窗口	retranslated
+By Kind	按物品类型	retranslated
+The item level in white, or in the item's quality colour (green, blue, purple). It starts as your Bags skin has it.	物品等级可以显示为白色或对应的品质颜色（绿、蓝、紫）；初始设置与背包皮肤一致。	retranslated
+Item's Quality	物品品质	reviewed_keep
+Item Level	物品等级	reviewed_keep
+The item level on weapons and armor.	在武器与护甲上显示物品等级。	retranslated
+Item Level Color	物品等级颜色	reviewed_keep
+The item level in white, or the item's quality colour. Experimental.	物品等级显示为白色，或按物品品质着色（实验性）。	retranslated
+Junk	灰色垃圾	retranslated
+Gray junk is darkened, with a coin on it.	灰色垃圾图标显示为较暗颜色，并加上金币标记。	retranslated
+New Item Glow	新物品高亮	retranslated
+The sparkle on new items. Experimental.	为新获得的物品显示闪光效果（实验性）。	retranslated
+Slot Look	背包格子样式	retranslated
+Flat: no slot frames, a thin edge in the item's quality colour. Experimental.	扁平：不显示栏位底框，仅用物品品质色绘制细边线（实验性）。	retranslated
+Edge Thickness	边框粗细	retranslated
+Flat slots: how thick each item's edge is. Experimental.	扁平栏位中每个物品边线的粗细（实验性）。	retranslated
+Flat slots: the edge colour. Experimental.	扁平栏位中物品的边框颜色（实验性）。	retranslated
+Window Color	窗口颜色	reviewed_keep
+The bag window's background. Experimental.	背包窗口背景（实验性）。	retranslated
+Window Background Opacity	窗口背景不透明度	reviewed_keep
+How see-through that background is. Experimental.	背景的不透明度（实验性）。	retranslated
+Damage Meter	伤害统计	retranslated
+CF Meter	CF 伤害统计面板	retranslated
+Damage Meter Skin	伤害统计面板皮肤	retranslated
+On: CF's look for the damage meter (the rows below).	开启后，为伤害统计面板应用下方 CF 外观设置。	retranslated
+How see-through the meter is.	调整伤害统计面板透明度。	retranslated
+Title Bar	标题栏	reviewed_keep
+The bar along the top of the meter.	伤害统计面板顶部的标题栏。	retranslated
+The scroll bar on the side.	侧面的滚动条。	reviewed_keep
+CF's Meter: Shows	CF 伤害统计：显示指标	retranslated
+DPS, Damage, Healing, HPS, Damage Taken, Deaths or Threat (your group's threat on your target). Left / right.	选择 DPS、总伤害、治疗量、每秒治疗量 HPS、承受伤害、死亡或仇恨（队伍对当前目标的仇恨）。左右方向键切换。	retranslated
+DPS	每秒伤害（DPS）	retranslated
+CF's Meter: Rows	CF 伤害统计：显示行数	retranslated
+How many players it shows (3 to 10). Your own row is always one of them.	设置显示玩家人数（3–10），你自己的数据始终包含在内。	retranslated
+CF's Meter: Opacity	CF 伤害统计：透明度	retranslated
+CF's Meter: Second Meter	CF 伤害统计：第二面板	retranslated
+CF's Meter: Second Shows	CF 伤害统计：第二面板指标	retranslated
+What the second panel shows: Threat, DPS, Damage, Healing, HPS, Damage Taken or Deaths. Left / right.	第二面板可显示仇恨、DPS、总伤害、治疗、HPS、承受伤害或死亡。左右方向键切换。	retranslated
+Threat	仇恨	retranslated
+CF's Meter: Move the Second Meter	CF 伤害统计：移动第二面板	retranslated
+The look of each bar's fill.	设置各条统计数据的填充纹理。	retranslated
+One colour for every bar.	所有统计条使用同一种颜色。	retranslated
+Behind each bar's fill.	每条统计数据填充部分的背景。	retranslated
+The edge round each bar.	每条统计数据的边框。	retranslated
+Zebra Stripes	斑马纹	retranslated
+Every other bar a little lighter.	让相邻统计行交替使用深浅不同的背景色。	retranslated
+Highlight #1	高亮第一名	retranslated
+A gold edge on the top bar.	为排名第一的条目添加金色边框。	retranslated
+The names' and numbers' font. Your Own Font: as CF Look > Font says.	玩家名称与数据数字的字体。自定义字体见“CF 外观 → 字体”。	retranslated
+The players' names.	玩家姓名。	retranslated
+Number Color	统计数值颜色	retranslated
+The damage / healing numbers.	伤害或治疗的具体数值。	retranslated
+Window Background	窗口背景	reviewed_keep
+Behind the whole meter.	伤害统计面板的整体背景。	retranslated
+The window background's colour.	统计面板背景颜色。	retranslated
+A frame round the meter.	伤害统计面板的边框。	retranslated
+Keyboard in the Game's AH	游戏原生拍卖行输入键盘	retranslated
+To	收件人	retranslated
+Subject	主题	retranslated
+Letter	正文	retranslated
+One press under your limit	低于限价时单按购买	retranslated
+The most one press of A spends in the Controller Auction House; pricier buys ask for A again. Left / right: 1g a step.	在 CF 手柄拍卖行中，低于该金额时按一次 A 即可购买；超过金额时需要再次按 A 确认。左右方向键每次调整 1 金币。	retranslated
+AH: Back Buttons	拍卖行：背键	retranslated
+In the Controller Auction House the back buttons jump to the previous / next section of a list, or work as left and right.	在手柄拍卖行中，背键可跳至列表上一／下一分区，也可以作为左右方向键使用。	retranslated
+Jump between sections	切换列表分区	retranslated
+AH: Gold as Text	拍卖行：使用文本显示金币	retranslated
+Prices as 3g 30s 40c instead of coin pictures, easier to read from the couch.	将拍卖价格显示为 3g 30s 40c 这样的文字，而不是金币图标，从较远位置更易阅读。	retranslated
+AH: Game's Tooltip Too	拍卖行：同时显示游戏原生提示框	retranslated
+AH: Window Size	拍卖行：窗口大小	retranslated
+Blizzard Art	暴雪原生装饰	retranslated
+Show Blizzard Art	显示原生装饰	retranslated
+On: the game's gryphons sit at the ends of your bars. Move and size each one in Edit Layout.	开启后，在动作条两端显示游戏原生狮鹫装饰；可在“编辑布局”中单独移动和缩放。	retranslated
+Blizzard Art Style	游戏原生装饰风格	retranslated
+Blizzard Art Size	原生装饰大小	retranslated
+Both sides bigger or smaller together. Left / right. LT / RT in Edit Layout sizes one.	同时调整左右两侧装饰的大小。左右方向键一起缩放；在编辑布局中可通过 LT／RT 单独调整一侧。	retranslated
+Flip Blizzard Art	翻转装饰方向	retranslated
+On: each side faces the other way.	开启后，左右装饰朝向与原来相反。	retranslated
+Accent, font and border	强调色、字体与边框	retranslated
+Player and target frames	玩家与目标框体	retranslated
+Party frame skin	小队框体外观	retranslated
+Bars under your character	角色下方的生命／资源条	retranslated
+Your cast bar's look	施法条外观	retranslated
+Minimap skin	小地图外观	retranslated
+Chat skin	聊天窗口外观	retranslated
+CF Meter, or skin the game's	使用 CF 伤害统计或美化游戏原生统计	retranslated
+One look for every skin.	为所有外观模块应用统一风格。	retranslated
+Text	文字	reviewed_keep
+Fonts for the skins and all game text.	皮肤和所有游戏文本的字体。	reviewed_keep
+Ready-Made	预设风格	retranslated
+All Text Font	所有文字字体	retranslated
+All Text Size	所有文字大小	retranslated
+Menu and Windows	菜单和窗口	reviewed_keep
+CF's own menu and windows: their look, whatever your skins.	CF 设置菜单和自定义窗口的外观，不受其他皮肤影响。	retranslated
+Gold as Text	使用文字显示金币金额	retranslated
+Game's Tooltip	游戏原生物品提示框	retranslated
+Window Size	窗口大小	reviewed_keep
+CF Window	CF 自定义窗口	retranslated
+The row you're on	当前选中的一行	retranslated
+Nothing matches your search.	没有符合搜索条件的结果。	retranslated
+since you last looked	自你上次查看后	retranslated
+never sold	从未出售过	retranslated
+uses it	使用它	retranslated
+better	更好	retranslated
+worse than worn	比当前装备差	retranslated
+most first	数量最多的优先	retranslated
+New	新获得	retranslated
+Quest	任务物品	retranslated
+Use	可使用	retranslated
+Trade Goods	交易物品	retranslated
+Other	其他	reviewed_keep
+IN A FIGHT	战斗中	retranslated
+It stays: the D-pad moves, X uses, B closes. Picking up and More wait for its end.	战斗中仍可用方向键浏览、X 使用、B 关闭；拿起物品及更多操作需要脱战后才能进行。	retranslated
+Clean Up	整理	retranslated
+Pick Up	拿起	retranslated
+More	更多	reviewed_keep
+Play	使用／播放	retranslated
+Sections	分类分区	retranslated
+YOURS	你的物品	retranslated
+each	每件	retranslated
+ready	已就绪	retranslated
+Lit because you used it last time: open, X, B is three presses.	因为上次使用过而高亮：按“打开 → X → B”即可用三个按键完成操作。	retranslated
+ON A TILE	在物品格子上	retranslated
+better than worn	比已装备的更好	retranslated
+worse	比当前装备差	retranslated
+quest item	任务物品	reviewed_keep
+junk	灰色垃圾	retranslated
+new	新	reviewed_keep
+Layout	布局	reviewed_keep
+Skin	皮肤	reviewed_keep
+CF's look for your frames.	为你的单位框体应用 CF 外观。	retranslated
+Move Your Frame	移动玩家框体	retranslated
+Mirror Target Frame	镜像目标框	reviewed_keep
+Move Target Frame	移动目标框	reviewed_keep
+Health, power and what's on them.	调整生命条、资源条及相关显示内容。	retranslated
+Bar Gap	生命／资源条间距	retranslated
+Glows, badges and the Party Wheel's pick.	高亮、状态标记与队友轮盘的选中提示。	retranslated
+Wheel Pick	轮盘选中目标	retranslated
+Window	窗口	reviewed_keep
+CF AH	CF 手柄拍卖行	retranslated
+Game AH Keyboard	游戏原生拍卖行输入键盘	retranslated
+Rolling	战利品掷骰	retranslated
+Gryphons at your bars' ends	动作条两端的狮鹫装饰	retranslated
+Edit Layout: Start	编辑布局：开始	reviewed_keep
+Start as a button of your own.	将 Start 作为独立按键。	retranslated
+Edit Layout: Both Stick Clicks	编辑布局：同时调整 L3／R3	retranslated
+Edit Layout: L3	编辑布局：L3	reviewed_keep
+Edit Layout: R3	编辑布局：R3	reviewed_keep
+L3 / R3 Action Buttons	L3／R3 动作按钮	retranslated
+Click a stick for a bind of your own.	按下摇杆即可触发自己设置的技能或操作。	retranslated
+Own Buttons	独立按键	retranslated
+Targeting Method	目标选择方式	retranslated
+LT / RT (Tab Targeting)	LT／RT（Tab 键式切换目标）	retranslated
+Interact, Else Tab Target	优先交互，否则切换目标	retranslated
+Ground Spells	地面指向法术	retranslated
+Press Twice	按两次施放	retranslated
+With No Target	没有目标时	retranslated
+At the Crosshair	在准星位置施放	retranslated
+Grenade Choice	选择手榴弹	retranslated
+Best	最强优先	retranslated
+Put Grenade on a Button	将手榴弹绑定到按键	retranslated
+Healing Potion Choice	选择治疗药水	retranslated
+Put Healing Potion on a Button	将治疗药水绑定到按键	retranslated
+Mana Potion Choice	选择法力药水	retranslated
+Put Mana Potion on a Button	将法力药水绑定到按键	retranslated
+Put Best Food on a Button	将最高级食物绑定到按键	retranslated
+Put Best Water on a Button	将最高级饮料绑定到按键	retranslated
+Put Eat and Drink on a Button	将吃喝恢复绑定到按键	retranslated
+Best Food	最高级食物	retranslated
+Best Water	最高级饮料	retranslated
+Eat and Drink	吃喝恢复	retranslated
+Bombs and Grenades	炸弹和手榴弹	reviewed_keep
+Like Ground Spells	遵循地面指向法术设置	retranslated
+Icons on Screen	屏幕上的图标	retranslated
+Edit Layout: LT / RT Target Icons	编辑布局：LT / RT 目标图标	reviewed_keep
+Show LT / RT Target Icons	显示 LT / RT 目标图标	reviewed_keep
+Show LB / RB Target Icons	显示 LB / RB 目标图标	reviewed_keep
+Taps	短按	retranslated
+Tap to Lock a Trigger	短按锁定扳机键	retranslated
+On: tap LT or RT and its modifier stays on until you tap again. Held while you press a button, it's a normal hold.	开启后，轻按 LT 或 RT 可将该组合键层保持激活，直至再次轻按。按住扳机键同时按其他键时，仍按普通长按方式处理。	retranslated
+Not With LT / RT Targeting	不适用于 LT／RT 选目标模式	retranslated
+On: with a trigger locked, the next button you press uses that set, then the lock comes off.	开启后，如果扳机键已锁定，则下一次按键使用对应组合键层，随后自动解除锁定。	retranslated
+Stick Targeting	摇杆选择目标	retranslated
+On (LT / RT)	开启（LT / RT）	reviewed_keep
+Modifier Buttons	组合键设置	retranslated
+Left Modifier	左侧组合键	reviewed_keep
+Trigger Only	仅扳机键	reviewed_keep
+Right Modifier	右侧组合键	reviewed_keep
+Show Icons	显示图标	reviewed_keep
+Show LB / RB Icons	显示 LB / RB 图标	reviewed_keep
+Simple Tutorial	简易教程	retranslated
+2 min	2 分钟	reviewed_keep
+Start Over	重新开始	reviewed_keep
+4 min	4 分钟	reviewed_keep
+6 min	6 分钟	reviewed_keep
+Set Up Your Important Default Binds	设置重要的默认快捷键	retranslated
+The default binds - Jump, Interact, the wheels, the map and more - one by one beside All Keybinds: bind each, pick another button or skip.	依次为跳跃、交互、快捷轮盘、地图等操作设置默认快捷键。可以选择按键、另选按键或跳过。	retranslated
+Set up your controller, find your way round the menu, move and talk.	配置手柄，熟悉设置菜单、移动与 NPC 对话。	retranslated
+Pick targets your way and read your buttons in a fight.	学会按照自己的习惯选择目标，并在战斗中识别动作按钮。	retranslated
+Put your spells on your buttons, with every page and set there is.	为技能设置动作按钮，熟悉各组合键层与页面。	retranslated
+Choose your layout, then move and size anything with Edit Layout.	选择布局，再通过编辑模式移动或缩放界面元素。	retranslated
+Pick a ready-made look, or make every part your own.	选用预设外观，或自定义所有界面元素。	retranslated
+Heal and buff your party from the controller, your enemy still targeted.	使用手柄给队友治疗和施加增益，同时保留当前敌对目标。	retranslated
+Wheels, the camera, vibration, handy helpers, and keeping your setup safe.	快捷轮盘、镜头、振动、便利功能及配置备份。	retranslated
+Edit Layout: Xbox Button	编辑布局：Xbox 按钮	reviewed_keep
+On: the Xbox / Home button is a button of your own. Set it up below first.	开启后，Xbox／Home 键可作为独立按钮。请先在下方完成设置。	retranslated
+Set Up Xbox Button	设置 Xbox／Home 键	retranslated
+A, then press your Xbox button so the addon learns it. Nothing? Map it to a key like F13 in Steam Input.	按 A 开始检测，然后按下手柄的 Xbox／Home 键。如果没有反应，可使用 Steam Input 将其映射为 F13 等键盘按键。	retranslated
+The Xbox / Home button as a button of your own.	将 Xbox／Home 键设为独立按键。	retranslated
+Own Button	独立按键	retranslated
+Set Up	设置	reviewed_keep
+for sale	在售	retranslated
+cheapest	最便宜	reviewed_keep
+usual	通常价格	retranslated
+scan just now	刚刚扫描	retranslated
+ON THE AH	拍卖行在售	retranslated
+100 favourites is the most.	最多可收藏 100 项。	retranslated
+Favourites can't change right now.	暂时无法修改收藏列表。	retranslated
+as a list >	以列表形式查看	retranslated
+from	来自	retranslated
+any category	任意类别	reviewed_keep
+type	类型	retranslated
+Recent	最近记录	retranslated
+Favourites	收藏列表	retranslated
+along the row	在同一行中切换	retranslated
+Y on an item adds one	在物品上按 Y 添加一项收藏	retranslated
+Browse	浏览	retranslated
+A browses at once	按 A 立即浏览	retranslated
+Type a name…	输入物品名称…	retranslated
+On sale now	当前在售	retranslated
+from the scan · no waiting	来自已有扫描，无需重新等待	retranslated
+Search	搜索	reviewed_keep
+Type	输入	retranslated
+Space	空格	retranslated
+Top name	最上方的名称	retranslated
+Cancel	取消	reviewed_keep
+All favourites	所有收藏	retranslated
+Along	沿途	reviewed_keep
+Favourite	收藏项	retranslated
+Tabs	标签	reviewed_keep
+Options	选项	retranslated
+NAMES	物品名称	retranslated
+takes the top one	选择列表第一项	retranslated
+all names with it	包含该词的所有名称	retranslated
+recent	最近	reviewed_keep
+Since last time	自上次以来	reviewed_keep
+Nothing new.	没有新内容。	retranslated
+PRICES	价格	retranslated
+No full scan yet: prices come as you look.	尚未进行完整扫描；浏览物品时会逐步获取价格。	retranslated
+TIP	提示	retranslated
+A search you made. A shows it again.	你之前搜索过的内容，按 A 可再次查看。	retranslated
+A browses it at once.	按 A 立即打开并浏览。	retranslated
+Your favourites	你的收藏	retranslated
+All of them as a list.	将所有收藏项显示为列表。	retranslated
+Searching…	正在搜索...	reviewed_keep
+Sort:	排序：	reviewed_keep
+Filters	筛选条件	retranslated
+Nothing found. Try fewer letters, or Select to change the filters.	没有搜索结果。试着缩短关键词，或按 Select 修改筛选条件。	retranslated
+Nothing found. Try fewer letters.	未找到结果，请减少搜索关键词。	retranslated
+Nothing with these filters. Select to change them.	当前筛选条件下没有结果。按 Select 修改筛选。	retranslated
+Nothing on sale right now.	目前没有在售物品。	retranslated
+Usable by me	我可以使用的物品	retranslated
+Upgrades only	只显示装备提升项	retranslated
+No filters on. Select opens them.	当前没有启用筛选条件，按 Select 打开设置。	retranslated
+Take it off	移除此项	retranslated
+To the list	前往列表	reviewed_keep
+Change the order	修改排序方式	retranslated
+Edit search	编辑搜索	reviewed_keep
+Unfavourite	取消收藏	retranslated
+Page	页	reviewed_keep
+any	任意	reviewed_keep
+Filters and sort	筛选与排序	retranslated
+On switches A turns it on or off · on numbers the D-pad changes it	对于开关选项，按 A 启用或关闭；对于数字选项，使用十字方向键调整数值。	retranslated
+Turn on / off	启用／关闭	retranslated
+Change	更改	reviewed_keep
+Done and search	完成设置并搜索	retranslated
+The price was let go: A asks again.	之前保留的价格已失效，按 A 重新查询。	retranslated
+Someone bought them first. Prices updated.	其他人先完成了购买，价格列表已更新。	retranslated
+The price ran out: A asks again.	报价已过期，按 A 重新查询。	retranslated
+An old price was still held: press A again.	仍有一笔旧价格被锁定；请再按一次 A 继续。	retranslated
+How many?	购买多少？	retranslated
+Price changed:	价格已变化：	retranslated
+to	到	retranslated
+A does nothing until the answer comes.	在服务器返回结果之前，A 键暂时不可用。	retranslated
+asking for prices…	正在请求价格…	retranslated
+PRICES NOW	当前价格	retranslated
+you take	你将获得	retranslated
+(your account)	（你的账号）	retranslated
+(yours)	（你的物品）	retranslated
+skipped	已跳过	reviewed_keep
+Asking for prices…	正在请求价格…	retranslated
+Buy	购买	reviewed_keep
+Total	总计	reviewed_keep
+avg	平均值	retranslated
+you paid last time	上次购买价格	retranslated
+A fight started: the price was let go.	进入战斗后，之前锁定的价格已取消。	retranslated
+None for sale right now.	当前没有可售物品。	retranslated
+Someone bought it first.	其他玩家先购买了这件物品。	retranslated
+this kind	这种物品	retranslated
+No favourites yet. Y on an item adds one.	暂时没有收藏项。在物品上按 Y 即可添加。	retranslated
+and	和	reviewed_keep
+Taking it…	正在领取…	retranslated
+Stop	停止	reviewed_keep
+Take the rest	领取剩余物品	retranslated
+Take it all	全部领取	retranslated
+one press	按一次	retranslated
+Item	物品	reviewed_keep
+lose the deposit	损失保证金	retranslated
+someone	某人	reviewed_keep
+Cheapest	最低价	retranslated
+gone before its time	拍卖在到期前消失	retranslated
+Probably sold	可能已经售出	retranslated
+gold collected	金币已领取	retranslated
+Sold	已售出	reviewed_keep
+Expired	已过期	reviewed_keep
+See today's price	查看今天的市场价	retranslated
+Favourite:	收藏项：	retranslated
+Not a favourite now:	已取消收藏：	retranslated
+Favourites aren't working right now.	暂时无法使用收藏功能。	retranslated
+You lose its deposit.	你会损失该拍卖的保证金。	retranslated
+the cheapest	当前最低价	retranslated
+Worth it?	是否值得？	retranslated
+Yours is the cheapest of its kind.	你目前的挂单是同类物品中价格最低的。	retranslated
+Its gold is collected.	售出金币已领取。	retranslated
+Done	完成	reviewed_keep
+Keys	按键	retranslated
+Nothing picked.	尚未选择物品。	retranslated
+Checking the price...	正在查询价格…	retranslated
+A comes back when the answer arrives.	服务器返回价格后，A 键会恢复可用。	retranslated
+It's no longer in your bags.	这件物品已经不在你的背包中。	retranslated
+No price yet.	暂时无法获取价格。	retranslated
+X types one.	按 X 输入一个数字。	retranslated
+checking the price...	正在核对价格…	retranslated
+price check: no answer	价格查询没有响应	retranslated
+was	原价	retranslated
+not checked yet	尚未检查	reviewed_keep
+the last one	最后一项	retranslated
+You	你	reviewed_keep
+Yours	你的	reviewed_keep
+checking...	正在检查...	reviewed_keep
+no answer	服务器无响应	retranslated
+Market · same kind	市场：同类物品	retranslated
+You (would be first)	你的挂单（将排在第一）	retranslated
+Same kind: none	同类物品：没有	retranslated
+any kind: from	全部类型：来自	retranslated
+You get	你将获得	retranslated
+marks all	全部标记	retranslated
+fresh prices	最新市场价格	retranslated
+again: Post anyway	再次确认：仍要上架	retranslated
+Unmark	取消标记	reviewed_keep
+Put back on sale	重新上架	retranslated
+Mark	标记	reviewed_keep
+Unmark all	全部取消标记	reviewed_keep
+Mark all	全部标记	reviewed_keep
+Filter	筛选	retranslated
+Filter by name	按名称筛选	retranslated
+NEVER OFFERED	从未上架	retranslated
+back buttons: previous / next section	背键：上一／下一分区	retranslated
+previous / next section	上一／下一分区	retranslated
+Undercut	压低竞争者价格	retranslated
+Match	匹配当前价格	retranslated
+Usual	通常市场价格	retranslated
+My last	我上次的价格	retranslated
+Presets	预设	reviewed_keep
+you get	你将获得	retranslated
+Amount	金额	reviewed_keep
+Time	上架时长	retranslated
+Type price	输入价格	retranslated
+Type amount	输入数量	retranslated
+Ask again	再次询价	retranslated
+Check price	查询价格	retranslated
+Price each	单价	retranslated
+How many	数量	retranslated
+Your last price	你上次的上架价格	retranslated
+On the AH	在拍卖行	retranslated
+CHEAPEST NOW · SAME KIND	当前最低价：同类物品	retranslated
+Price	价格	reviewed_keep
+In a fight. The AH waits.	战斗中，拍卖行操作需要等待脱战。	retranslated
+Your buttons are yours until the fight ends.	战斗结束前，手柄按键仍执行原有战斗操作。	retranslated
+Loading...	加载中...	reviewed_keep
+That screen isn't built yet.	这个界面尚未开发。	retranslated
+(waiting for the server)	（等待服务器）	reviewed_keep
+(ready in %.1f s)	（%.1f 秒后就绪）	retranslated
+AH ready	拍卖行已就绪	retranslated
+busy, %.1f s	忙碌中，还需 %.1f 秒	retranslated
+VS WORN	与身上装备对比	retranslated
+nothing worn there	对应部位未装备物品	retranslated
+(the enchant on yours is not counted)	（未计入你当前装备的附魔效果）	retranslated
+The game's own window is asking.	请先在游戏原生确认窗口中完成操作。	retranslated
+The same buttons on every screen	所有界面采用相同的按键操作	retranslated
+Got it	知道了	reviewed_keep
+Always A again	始终二次按 A 确认	retranslated
+Left and right	左右	reviewed_keep
+Switch	切换	retranslated
+Back buttons can be set up out of combat.	请脱离战斗后设置手柄背键。	retranslated
+That waits until you leave combat.	此操作需要等到脱战后进行。	retranslated
+Can't swap the fishing pole in a fight yet - try again after	战斗中暂不能替换鱼竿，请脱战再试。	retranslated
+any build	任意装备配置	retranslated
+About the same for you	与你当前装备差不多	retranslated
+this kind of item	这种物品	retranslated
+Couldn't destroy that here.	无法在此处销毁该物品。	retranslated
+Put Down	放下物品	retranslated
+Put Back	放回原处	retranslated
+Swap	交换物品	retranslated
+Trade	交易	retranslated
+Character	角色	retranslated
+Holding an item	正在拿着物品	retranslated
+the game won't	游戏不允许此操作	retranslated
+Bound to you: it can't go there.	此物品已与你绑定，不能放到那里。	retranslated
+after the fight	脱离战斗后	retranslated
+can't be used	无法使用	retranslated
+Nothing to use	没有可使用的物品	retranslated
+Empty slots are one count, not rows of blank squares. Pick something up with A, then A here puts it in the first free slot.	空栏位合并显示为数字，而非一排空格。先按 A 拿起物品，再在这里按 A 即可放入第一个空栏位。	retranslated
+Destroy...	销毁…	retranslated
+the game asks to be sure	游戏将要求再次确认	retranslated
+Put It on a CF Button	放到 CF 动作按钮上	retranslated
+press the button you want it on	请按下想要绑定该物品的按键	retranslated
+Choose	选择	reviewed_keep
+MORE	更多操作	retranslated
+1 less / more	减少／增加 1	retranslated
+5 less / more	减少／增加 5	retranslated
+Move	移动	reviewed_keep
+Full Window: a big one in the middle, with a card on the item you're on. Simple: a small one where the game's bags open.	完整窗口：屏幕中央显示大背包窗口，旁边附有所选物品详情；简易窗口：使用游戏原生背包位置的小型窗口。	retranslated
+In a fight it works too: the D-pad moves, X uses a potion, B closes.	战斗中仍可使用：方向键浏览，X 使用药水，B 关闭窗口。	retranslated
+Simple	简易模式	retranslated
+No Thanks	不用了，谢谢	reviewed_keep
+Bank	银行	reviewed_keep
+Put In	存入	retranslated
+The next one costs	下一个栏位费用	retranslated
+Holding an item, A here puts it in the first free slot on this side.	拿着物品时，在这里按 A 可放入此侧的第一个空栏位。	retranslated
+Tops up a stack of it first, then the first free slot.	优先合并到已有同种物品组，再放入第一个空栏位。	retranslated
+Nothing to move	没有可移动的物品	retranslated
+all bought	已全部购买	retranslated
+Nothing right now	目前没有内容	retranslated
+more above	上方还有更多内容	retranslated
+more below	下方还有更多内容	retranslated
+Hidden: its items go in Other	隐藏：其物品归入“其他”分类	retranslated
+Built in	内置分区	retranslated
+moving	正在移动	retranslated
+Add a Section...	添加分类…	retranslated
+Skinning, Mining, Potions, Recipes...	剥皮、采矿、药水、配方等…	retranslated
+Back to the Usual Sections	恢复默认分类	retranslated
+none of yours, nothing hidden, the usual order	移除全部自定义分类，不隐藏任何物品，并恢复默认顺序。	retranslated
+Put It Here	放到这里	retranslated
+Move It	移动此项	retranslated
+Put It Back	放回原处	retranslated
+Remove	移除	retranslated
+Show	显示	reviewed_keep
+Hide	隐藏	reviewed_keep
+Add a Section	添加分类	retranslated
+Yes, Reset	是的，重置	reviewed_keep
+Back to the usual sections.	恢复默认物品分类。	retranslated
+Hidden: its items go in Other.	隐藏该分类后，相关物品将归入“其他”。	retranslated
+Pick a kind of item: Skinning, Mining, Potions, Recipes and more. Its section takes those items before the usual ones.	选择物品类别，例如剥皮材料、采矿材料、药水、配方等。新建分类会优先于常规分类收纳对应物品。	retranslated
+HOW IT WORKS	使用说明	retranslated
+Your sections take their items first: an ore goes in Mining, not Trade Goods. New and Quest still come first.	自定义分类优先收纳对应物品：例如矿石优先进入“采矿材料”，而不是“交易物品”；但“新物品”和“任务物品”仍排在最前。	retranslated
+Order is Bag by Bag now: your sections show with Order: By Kind.	当前按各个背包分别排列；如需显示自定义分类，请将排序改为“按类型”。	retranslated
+Yours already	已在你的分类中	retranslated
+Add It	添加	reviewed_keep
+You have this section.	已经存在这个分类。	retranslated
+Keyring	钥匙链	retranslated
+Backpack	主背包	retranslated
+Keys only	只存放钥匙	retranslated
+1 key	1 把钥匙	retranslated
+Smallest - upgrade this one first	最小背包，建议优先升级	retranslated
+Chosen	已选择	reviewed_keep
+? slots	？格	retranslated
+Keys only.	只能存放钥匙。	retranslated
+It grows as you get keys, and can't be changed.	钥匙链容量会随获得的钥匙自动扩展，无法手动修改。	retranslated
+takes anything.	可存放任何物品。	retranslated
+Slots	栏位	retranslated
+In use	使用中	retranslated
+Free	空闲	retranslated
+Always there: it can't be changed.	此栏位始终存在，无法更改。	retranslated
+Smallest - upgrade this one first.	这是容量最小的背包，建议优先替换。	retranslated
+HOLDING	正在拿着	retranslated
+CHOSEN	已选中	retranslated
+Where	位置	retranslated
+Biggest you carry	携带的最大背包	retranslated
+Drawn by the window itself, with sample items.	窗口使用示例物品绘制预览。	retranslated
+(a moment)	（稍后）	retranslated
+Preview	预览	retranslated
+Shows when you change	更改设置时显示	retranslated
+Change this out of a fight.	请脱离战斗后修改此设置。	retranslated
+Can't undo a bind in combat.	战斗中无法撤销按键绑定。	retranslated
+Nothing to undo.	没有可以撤销的操作。	retranslated
