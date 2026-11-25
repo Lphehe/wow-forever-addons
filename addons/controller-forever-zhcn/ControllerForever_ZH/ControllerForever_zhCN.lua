@@ -29,6 +29,8 @@ ControllerForever.L.register("zhCN", {
     ["Shortcuts"] = "快捷操作",
     ["The window wheel, the consumables wheel and the quest item button."] = "窗口快捷轮盘、消耗品轮盘和任务物品快捷键。",
     ["Class Options"] = "职业选项",
+    ["Hunters: Melee Set"] = "猎人：近战按键组",
+    ["Warriors and Rogues: Ranged Set"] = "战士与潜行者：远程按键组",
     ["Per-class extras, like warrior stance sets."] = "各职业专属设置，例如战士姿态按键方案。",
     ["Look"] = "外观",
     ["Gamepad Bar"] = "手柄动作条",

@@ -4,4 +4,6 @@
 ## Notes-zhCN: Controller Forever 3.9.44 的非官方简体中文语言包。
 ## Version: 0.4.1-rc
 ## Dependencies: ControllerForever
+## OptionalDeps: ControllerForever_Locales
 ControllerForever_zhCN.lua
+ControllerForever_MenuTitle.lua
