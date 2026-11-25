@@ -18,3 +18,5 @@ jobs:
           sudo apt-get update -qq
           sudo apt-get install -y lua5.1
           luac5.1 -p addons/controller-forever-zhcn/ControllerForever_ZH/ControllerForever_zhCN.lua
+          luac5.1 -p addons/controller-forever-zhcn/ControllerForever_ZH/ControllerForever_MenuTitle.lua
+          luac5.1 -p scripts/test_menu_title.lua

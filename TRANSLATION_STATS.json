@@ -3,7 +3,7 @@
   "version": "0.4.1-rc",
   "language_table_reference_keys": 2289,
   "additional_static_ui_candidates": 653,
-  "total_language_entries": 3357,
+  "total_language_entries": 3359,
   "original_unreviewed_keys_inspected": 1230,
   "original_unreviewed_keys_revised": 783,
   "previously_curated_original_keys": 1059,
@@ -18,5 +18,6 @@
   "mac_online": false,
   "color_wrappers_preserved": true,
   "language_values_review_status": "all 1,230 older machine draft entries inspected, 783 rewritten; retained may need in-game QA",
-  "limitation": "Extra UI strings may not use L.tr; adding a key does not ensure callsites translate it"
+  "limitation": "Extra UI strings may not use L.tr; adding a key does not ensure callsites translate it",
+  "additional_compatibility_title_keys": 2
 }
